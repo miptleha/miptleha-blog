@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+<h2>{{ page.position }}</h2>
+
+{{ content }}
+
+<h1>Posts</h1>
+{% assign fposts = site.posts | where: 'author', page.short_name %}
+{% for post in fposts %}
+<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+title: Blog
+---
+
+{% for post in site.posts %}
+<a href="{{ post.url }}">
+<h1>{{ post.title }}</h1>
+<p>{{ post.author }}</p>
+{{post.excerpt }}
+</a>
+{% endfor %}
