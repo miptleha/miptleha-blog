@@ -1,4 +1,4 @@
 # miptleha-blog
 Blog on jekyll
 
-[как опубликовать](https://qna.habr.com/q/371887)
+[РєР°Рє РѕРїСѓР±Р»РёРєРѕРІР°С‚СЊ](https://qna.habr.com/q/371887)
