@@ -26,7 +26,7 @@ tags:
 
 **December 27th**. At night has again dropped out white snow!!! The Third day I sit at home, except for sorties for clearing a parking after a snowplow. I can not get out anywhere. The machine has disappeared under mountain of this white snow! And as it is brutally cold! The dude from a bureau of forecasts promises 20 more centimeters white snow this night. The GOAT!!! And you know, how much shovels of a snow it will make of 20 centimeters???
 
-**December 28th**. This m@*n from a bureau of forecasts was mistaken! 50 centimeters have dropped out. Similar, this... ky the snow will not melt till the summer. The snowplow has got stuck near our house, and this *dak the driver has come running to us with the request to borrow a shovel. I have told to him, that have broken six shovels, throwing back that white *rmo with which he filled up our parking, and now I shall break the seventh about his mutton head.
+**December 28th**. This m@*n from a bureau of forecasts was mistaken! 50 centimeters have dropped out. Similar, this... the snow will not melt till the summer. The snowplow has got stuck near our house, and this *dak the driver has come running to us with the request to borrow a shovel. I have told to him, that have broken six shovels, throwing back that white *rmo with which he filled up our parking, and now I shall break the seventh about his mutton head.
 
 **January 4th**. Today at last that has got out from the house!!! Has gone to shop to buy food. And here, on a return way this cattle - a deer and brakes hoofs all car front takes off on road. Injury on three thousand dollars!!! Well why hunters not kills these * skud in November? These deers everywhere and everywhere. That them would break off!
 
