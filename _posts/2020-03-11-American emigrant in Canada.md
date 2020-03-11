@@ -30,6 +30,6 @@ tags:
 
 **January 4th**. Today at last that has got out from the house!!! Has gone to shop to buy or purchase food. And here, on a return way this cattle - a deer and brakes hoofs all car front or cars takes off on road. Injury or damage on three thousand dollars!!! Well why hunters not kills these or it * skud in November? These or it * ri (deers) everywhere and everywhere. That them would break off!
 
-**May 3th**. Has brought the machine or car to a workshop. You will not believe, but this cart has had time to rust at all, from salt which goats from urban services strewed on roads.
+**May 3th**. Has brought the car to a workshop. You will not believe, but this cart has had time to rust at all, from salt which goats from urban services strewed on roads.
 
 **May 10th**. All! I leave for Florida. I can not present myself, that somebody, being in sensible mind, will wish to live in this Canada! 
