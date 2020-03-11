@@ -1,4 +1,4 @@
----
+﻿---
 title: "American emigrant in Canada - diary"
 date: 2020-03-11T17:00:00-04:00
 categories:
