@@ -20,13 +20,13 @@ tags:
 
 **December 19th**. Again there was a snow at this night. I and could not clear a parking and leave on job. Here it is certainly magnificent, but I have already grown weak, constantly clearing a parking from a snow. An idiotic snowplow!
 
-**December 22th. Again this or thus at night fell white frost! I have earned bloody blisters on arms or hand and a constant back pain, from infinite cleaning a snow. Such impression, that this woodpecker on a snowplow is hidden behind an angle and only and waits when I clean a snow from a parking. * PA!!!
+**December 22th**. Again this or thus at night fell white frost! I have earned bloody blisters on arms or hand and a constant back pain, from infinite cleaning a snow. Such impression, that this woodpecker on a snowplow is hidden behind an angle and only and waits when I clean a snow from a parking. * PA!!!
 
 **December 25th**. Merry Christmas! Again this snow!!! If only to reach that throat * kina the son, which on a snowplow. I swear, would strangle * yes!!! And then, why urban services not scatter salt on ice-covered roads? Yesterday went and it was not killed nearly.
 
 **December 27th**. This or thus at night has again dropped out white snow!!! The Third day I sit at home, except for sorties for clearing a parking after a snowplow. I can not get out anywhere. The machine or car has disappeared under mountain of this or thus white snow! And as it is brutally cold! The dude from a bureau of forecasts promises 20 more centimeters white snow this night. The GOAT!!! And you know, how much shovels of a snow these or it will make of 20 centimeters???
 
-**December 28th**. This m@*n from a bureau of forecasts was mistaken! 50 centimeters have dropped out. Similar, this... ky the snow will not thaw till the summer. The snowplow has got stuck near our house, and this * dak the driver has come running to us with the request to borrow or lend a shovel. I have told or said to him, that have broken six shovels, throwing back that white * rmo with which he filled up our parking, and now I shall break the seventh about its or his mutton head.
+**December 28th**. This m@*n from a bureau of forecasts was mistaken! 50 centimeters have dropped out. Similar, this... ky the snow will not melt till the summer. The snowplow has got stuck near our house, and this *dak the driver has come running to us with the request to borrow or lend a shovel. I have told or said to him, that have broken six shovels, throwing back that white *rmo with which he filled up our parking, and now I shall break the seventh about its or his mutton head.
 
 **January 4th**. Today at last that has got out from the house!!! Has gone to shop to buy or purchase food. And here, on a return way this cattle - a deer and brakes hoofs all car front or cars takes off on road. Injury or damage on three thousand dollars!!! Well why hunters not kills these or it * skud in November? These or it * ri (deers) everywhere and everywhere. That them would break off!
 
