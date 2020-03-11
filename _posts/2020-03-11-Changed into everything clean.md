@@ -8,8 +8,6 @@ tags:
   - Russia
 ---
 
-2008, Mikhail Zhvanetsky: The population changed into everything clean
-
 Once, the Minister of Finance, pale as death, appeared on television and declared:
 - The financial crisis will not affect us.
 Because.
@@ -77,3 +75,4 @@ Hurrah!
 - shouted the population
 and just in case, changed into everything clean ...
 
+**2008, Mikhail Zhvanetsky**
