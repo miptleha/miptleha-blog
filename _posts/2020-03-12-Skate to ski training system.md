@@ -398,32 +398,39 @@ on only the toe wheel
 * Pumping both legs from narrow to out wide to narrow again repeatedly as you
 glide forward (sometimes called swizzles)
 
-ANGULATION TURNS
-15
-150
-150
-25
-TERRAIN (ANGULATION TURNS)
+## Angulation turns
+
+**Terrain**
 Find a low to moderate pitch that allows you to maintain momentum while
 making consistent, medium radius turns.
-OBJECTIVE
+
+**Objective**
+
+![Angulation turns](/assets/images/angulation-turns.jpg){: .align-left}
 To evolve the basic parallel turn into a more dynamic and energized turn. To use the
 turn to manage speed and direction on sloped terrain.
-IF DONE CORRECTLY
-►► Skater can link turns with various turns shapes
-►► Shoulders are level with upper body oriented down the slope
-►► Turns are more dynamic with deeper flexion and increased angulation
-►► Skater begins to experiment with speed control on a slope through turn shape
-COMMON CHALLENGES
-►► Choosing a slope that’s too steep causing loss of control
-►► Leaning into the slope with too much weight on the inside leg
-►► Too much motion or rotation in the upper body
-►► Inside foot scissored too far ahead of outside foot – making a hockey turn vs a ski turn
-SUMMARY
+
+**If done correctly**
+
+* Skater can link turns with various turns shapes
+* Shoulders are level with upper body oriented down the slope
+* Turns are more dynamic with deeper flexion and increased angulation
+* Skater begins to experiment with speed control on a slope through turn shape
+
+**Common challenges**
+
+* Choosing a slope that’s too steep causing loss of control
+* Leaning into the slope with too much weight on the inside leg
+* Too much motion or rotation in the upper body
+* Inside foot scissored too far ahead of outside foot – making a hockey turn vs a ski turn
+
+**Summary**
+
 Your skate turns should now feel very similar to your ski turns. Deep flexion, dynamic
 energy, and direction control on a slope define successful angulation turns. Experiment
 with how deep a carve you can make with hips dropped into the turn and legs outside
 your body.
+
 As mentioned previously - respect gravity. Take on increasingly steeper slopes only
 when you are 100% confident in your ability to slow and stop yourself. Finding the right
 slope is essential for this drill. Too little will prevent momentum needed for continuous
