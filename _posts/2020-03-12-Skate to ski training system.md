@@ -28,9 +28,9 @@ We hope you’ll find this program as fun to try out as it was for us to build. 
 able to progress through the entire program, you will absolutely be in the best skiready
 shape possible for next winter.
 
-# Things to know before you roll
+## Things to know before you roll
 
-## New to skating?
+**New to skating?**
 
 Inline skating is a great all around workout. It hits every aspect
 of fitness. But it also requires some unique knowledge to get
@@ -64,14 +64,14 @@ You’re free to try these exercises with poles if you wish. Just make sure they
 distracting you from the task at hand. And most importantly, make sure they don’t cause
 a risk to you or anyone around you.
 
-# Choosing terrain
+## Choosing terrain
 
 Just like in skiing, it’s important to skate on terrain that’s within your ability to navigate
 safely. Unlike in skiing, there are no trail markers to let you know what lies ahead.
 Before you head out to skate, make sure you know the road ahead and the variables
 that are likely to exist. Here are some of the major things to consider.
 
-## Slope
+**Slope**
 
 This is the one that you will most need to recalibrate if you’re
 used to skiing down hills. Even the slightest pitch in a paved
@@ -79,14 +79,14 @@ trail or road will cause you to pick up speed very quickly.
 Make sure you are super strong at braking and controlling
 your speed before you venture onto any sloped surface.
 
-## Quality of pavement
+**Quality of pavement**
 
 Again, just like in skiing, the condition of the surface you
 will be skating makes a huge difference in your ability to
 control yourself. Avoid water, sand, and deep cracks in the
 pavement.
 
-## Traffic
+**Traffic**
 
 The paved surface you’ll be skating on may have
 pedestrians, bikes, or even motor vehicles. Make sure you
@@ -110,10 +110,13 @@ speed.
 slope, not steep, that will cause you to rapidly pick up speed. At no point is
 a steep slope recommended or necessary to use the Skate to Ski Training
 System.
-# Pre-skate checklist
+
+## Pre-skate checklist
+
 Always inspect your skating equipment before each use. You wouldn’t head out on the
 slopes without properly functioning bindings, skis, or boots. Same should be true for
 your skates. Perform the following quick checks before you head out.
+
 * Wiggle each wheel to check axle tightness.
 * Check the screws/bolts that secure the wheels to make sure they are tight. If bolts
 that secure the wheels are loose, tighten them with the Allen wrench included in
@@ -144,17 +147,17 @@ got the basics of movement and stopping down, you’re ready for Phase 1.
 
 ## A-Frame turn
 
-### Terrain
+**Terrain**
 
 Begin on a smooth, flat, paved surface with no slope.
 
-### Objective
+**Objective**
 ![A-Frame](/assets/images/a-frame.jpg){: .align-right}
 This drill is a great way to develop a balanced stance and learn direction change at
 slow to medium speeds. This is the equivalent of the wedge turn on skis. The goal is
 to learn to link turns using the A-frame stance.
 
-### If done correctly
+**If done correctly**
 
 * Knees and ankles are flexed throughout
 * Upper body calm and upright, hips over heels, knees over toes
@@ -163,14 +166,14 @@ leg,
 30% on the inside leg
 * Turns are on inside edges, round, smooth, and linked together
 
-### Common challenges
+**Common challenges**
 
 * Feet come together, A-frame stance is lost
 * Leaning into the turn, putting more pressure on inside leg
 * One foot gets ahead of the other
 * Upper body rotation towards the turn
 
-### Summary
+**Summary**
 
 Maintain a flexed ready stance throughout the turn. Keep both feet at the same width,
 and do not let one leg advance in front of the other. If you are having trouble, direct
@@ -183,18 +186,19 @@ Experiment with a wider or a narrower stance to see how this affects turn shape.
 
 ## Braking on a hill (if not dismantled)
 
-### Terrain
+**Terrain**
 
 Choose a very slight slope to test and improve your ability to use the brake
 effectively. Braking down a hill requires significantly more skill than braking
 on a level surface.
 
-### Objective
-![A-Frame](/assets/images/braking.jpg){: .align-left}
+**Objective**
+
+![Braking](/assets/images/braking.jpg){: .align-left}
 To learn speed control and stopping while going down a slope. To develop the braking
 skill and confidence needed to safely navigate slight to moderately sloped surfaces.
 
-### If done correctly
+**If done correctly**
 
 * Knees and ankles are deeply flexed, hands out front
 * The braking foot is scissored fully out in front of the back balancing foot
@@ -202,14 +206,14 @@ skill and confidence needed to safely navigate slight to moderately sloped surfa
 * Pressure is applied gradually to the braking foot until almost 100% of pressure is
 applied directly to the brake pad
 
-### Common challenges
+**Common challenges**
 
 * Braking foot not scissored forward far enough
 * Turning as brake is applied = Stance is too wide
 * Upper body bending forward at waist
 * Legs straight and locked instead of flexed
 
-### Summary
+**Summary**
 
 After you’re comfortable stopping on the flats at different speeds, its time to start
 experimenting with different slopes to see how your newfound braking skills hold up.
@@ -221,18 +225,19 @@ slope, the longer distance you will need to stop.
 
 ## Striding for power
 
-### Terrain
+**Terrain**
 
 Begin on a smooth, flat, paved surface with no slope. Ideally you should pick
 a route where you are able to skate in one direction for at least 5-10 minutes.
 
-### Objective
-![A-Frame](/assets/images/striding.jpg){: .align-right}
+**Objective**
+
+![Striding](/assets/images/striding.jpg){: .align-right}
 To learn a more powerful, efficient stride. Develop a deeper, longer stride that begins
 from the outside edge and finishes on the inside edge of the wheels. The motion
 should be very similar to skate skiing.
 
-### If done correctly
+**If done correctly**
 
 * The striding foot is placed down directly on, or slightly past, a center line under
 your hips
@@ -242,14 +247,14 @@ balance on the foot about to stride
 * There is a gliding moment on one leg before pushing off again on the next stride
 * Knee of the gliding leg is flexed and over the toe
 
-### Common challenges
+**Common challenges**
 
 * Constant striding with no gliding in between strides
 * Short choppy strides only using inside edges of wheels
 * Stride foot placed down at an angle like a duck
 * Knees and ankles not flexed enough
 
-### Summary
+**Summary**
 
 Start the stride with your pinky toe (outside edge). Push and roll your foot all the way
 through your heel (inside edge) to get as much power out of your stride as possible. As
@@ -263,53 +268,71 @@ allow for better power transfer and balance.
 
 ## Parallel turns
 
-### Terrain
+**Terrain**
 
 Begin on a smooth, flat, paved surface. A very slight slope may be helpful
 to fully develop this skill. Without any pitch it can be harder to create and
 maintain momentum throughout linked parallel turns.
-OBJECTIVE
+
+**Objective**
+
+![Parallel turns](/assets/images/parallel-turns.jpg){: .align-left}
 This is like progressing from wedge turns on skis to parallel turns. It is the breakthrough
 skill that will allow you to truly cross-train for skiing on skates. If you’re
 already familiar with parallel turns on skis, you have two legs up in learning this skill
 over the average inline skater.
-IF DONE CORRECTLY
-►► Skater maintains a flexed stance throughout the turn
-►► The left leg scissors ahead for a left turn, right leg scissors ahead for a right turn
-►► Skater maintains a relatively narrow stance – less than hip width. The flatter the
+
+**If done correctrly**
+
+* Skater maintains a flexed stance throughout the turn
+* The left leg scissors ahead for a left turn, right leg scissors ahead for a right turn
+* Skater maintains a relatively narrow stance – less than hip width. The flatter the
 terrain, the narrower the stance needs to be
-►► Skates are rolled on edge with the outside leg using the inside edge, and the
+* Skates are rolled on edge with the outside leg using the inside edge, and the
 inside leg using the outside edge
-COMMON CHALLENGES
-►► Too wide a stance – unable to roll skates on edge
-►► Being too upright with locked legs
-►► Going too slowly on a flat surface – some momentum is necessary
-SUMMARY
+
+**Common challenges**
+
+* Too wide a stance – unable to roll skates on edge
+* Being too upright with locked legs
+* Going too slowly on a flat surface – some momentum is necessary
+
+**Summary**
+
 The parallel turn is the fundamental skill needed to progress further in this program. In
 order to create linked parallel skate turns, it will take practice. Eventually you will want
 to progress to a slight slope that you feel comfortable with. The perfect location has a
 continuous slight slope that allows you to maintain momentum as you link one turn to
 the next.
-18
-FREE SKATE
-19
-TERRAIN (FREE SKATE)
+
+## Free skate
+
+**Terrain**
+
 Find your favorite local spot that has a combination of perfectly flat areas and
 areas with slight slope to experiment with your new found skills. It’s time to
 have some fun.
-OBJECTIVE
+
+**Objective**
+
 Learn to be a solid all-around inline skater. Apply all the skills learned so far to
 explore your local terrain. Develop solid coordination & balance, build endurance,
 and gain the confidence needed to progress in this program.
-IF DONE CORRECTLY
-►► Skater is able to identify terrain that is within their ability to skate
-►► Skater has fully learned the skills in Phase 1 and is using them regularly as they skate
-►► Skater is confident and having fun
-COMMON CHALLENGES
-►► Remembering to check out the terrain ahead before skating
-►► Skating down hills or in areas that are beyond the skater’s ability
-►► Jumping ahead to Phase 2 before mastering Phase 1
-SUMMARY
+
+**If done correctly**
+
+* Skater is able to identify terrain that is within their ability to skate
+* Skater has fully learned the skills in Phase 1 and is using them regularly as they skate
+* Skater is confident and having fun
+
+**Common challenges**
+
+* Remembering to check out the terrain ahead before skating
+* Skating down hills or in areas that are beyond the skater’s ability
+* Jumping ahead to Phase 2 before mastering Phase 1
+
+**Summary**
+
 Find a route that you can comfortably skate in roughly 30 minutes. On flat sections
 and inclines, work on maintaining a constant rhythm and velocity with your stride. On
 downhill sections, work on your parallel turns and braking. Think about how turning on
@@ -318,20 +341,22 @@ your route while maintaining good technique and control.
 Continue with your free skating until parallel turns, long smooth strides, and controlled
 speed on slight to moderate hills becomes routine. When you reach this milestone, you
 are ready to move on to Phase 2 and beyond.
-20
-PHASE 1 CHECKLIST
-Using your brake for speed control
-Stopping on flat and sloped terrain
-Easily changing direction at will
-Gliding between strides for at least a 2-3 second cadence
-Performing smooth parallel turns in both directions
-Performing parallel turns in short to long radius turns
-Knowing how to identify appropriate terrain within your ability
-Being able to free skate for 30 minutes at a moderate pace
-BEFORE PROGRESSING TO PHASE 2, MAKE SURE YOU
-ARE SOLID ON THE FOLLOWING:
-21
-PHASE 2
+
+## Phase 1 checklist
+
+Before progressing to phase 2, make sure you
+are solid on the following:
+
+* Using your brake for speed control
+* Stopping on flat and sloped terrain
+* Easily changing direction at will
+* Gliding between strides for at least a 2-3 second cadence
+* Performing smooth parallel turns in both directions
+* Performing parallel turns in short to long radius turns
+* Knowing how to identify appropriate terrain within your ability
+* Being able to free skate for 30 minutes at a moderate pace
+
+# Phase 2
 1. BALANCE & AGILITY
 2. ANGULATION TURNS
 3. LINE JUMPERS
