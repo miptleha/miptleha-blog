@@ -390,6 +390,7 @@ independently
 * Skater is too rigid and lacking fluidity during the skating motion
 
 **Summary**
+
 Inline skates have a much shorter platform on which to balance than skis. Developing a
 stable platform is essential to progressing with your skating. The video offers some basic
 balance exercises. Try out some other motions to truly challenge and hone your sense of
