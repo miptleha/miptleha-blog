@@ -15,7 +15,7 @@ at Rollerblade® are also lifelong skiers. We challenged ourselves to take what 
 always been an informal way for us to maintain ski-ready fitness, and transform it into
 a training program that truly mirrors the movements and skills used in skiing.
 
-We teamed up with our friends at the Professional Ski Instructors of Amarica® and U.S.
+We teamed up with our friends at the Professional Ski Instructors of America® and U.S.
 Ski and Snowboard to build out a program based on proven methods of training. The
 result is a series of videos and this companion guidebook.
 
