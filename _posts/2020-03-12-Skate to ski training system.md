@@ -9,7 +9,6 @@ tags:
 ---
 
 # Welcome to the skate to ski training system!
-
 Inline skating has been a great way to cross-train for skiing for years. Many of us here
 at Rollerblade® are also lifelong skiers. We challenged ourselves to take what has
 always been an informal way for us to maintain ski-ready fitness, and transform it into
@@ -29,9 +28,7 @@ able to progress through the entire program, you will absolutely be in the best 
 shape possible for next winter.
 
 # Things to know before you roll
-
 ## New to skating?
-
 Inline skating is a great all around workout. It hits every aspect
 of fitness. But it also requires some unique knowledge to get
 the most out of the experience – including safety.
@@ -57,31 +54,23 @@ even be dangerous in certain situations.
 You’re free to try these exercises with poles if you wish. Just make sure they aren’t
 distracting you from the task at hand. And most importantly, make sure they don’t cause
 a risk to you or anyone around you.
-
 # Choosing terrain
-
 Just like in skiing, it’s important to skate on terrain that’s within your ability to navigate
 safely. Unlike in skiing, there are no trail markers to let you know what lies ahead.
 Before you head out to skate, make sure you know the road ahead and the variables
 that are likely to exist. Here are some of the major things to consider.
-
 ## Slope
-
 This is the one that you will most need to recalibrate if you’re
 used to skiing down hills. Even the slightest pitch in a paved
 trail or road will cause you to pick up speed very quickly.
 Make sure you are super strong at braking and controlling
 your speed before you venture onto any sloped surface.
-
 ## Quality of pavement
-
 Again, just like in skiing, the condition of the surface you
 will be skating makes a huge difference in your ability to
 control yourself. Avoid water, sand, and deep cracks in the
 pavement.
-
 ## Traffic
-
 The paved surface you’ll be skating on may have
 pedestrians, bikes, or even motor vehicles. Make sure you
 are obeying any local rules about skating in a location, and
@@ -104,13 +93,10 @@ speed.
 slope, not steep, that will cause you to rapidly pick up speed. At no point is
 a steep slope recommended or necessary to use the Skate to Ski Training
 System.
-
 # Pre-skate checklist
-
 Always inspect your skating equipment before each use. You wouldn’t head out on the
 slopes without properly functioning bindings, skis, or boots. Same should be true for
 your skates. Perform the following quick checks before you head out.
-
 * Wiggle each wheel to check axle tightness.
 * Check the screws/bolts that secure the wheels to make sure they are tight. If bolts
 that secure the wheels are loose, tighten them with the Allen wrench included in
@@ -131,45 +117,31 @@ being too tight or uncomfortable.
 * For optimal ankle support, make sure your ankle area is laced or buckled tightly
 when first starting out.
 * Wear ALL the protective gear - helmet, wrist guards, elbow and knee pads.
-
-# Phase 1 #
-
+# Phase 1
 In Phase 1 the focus is on creating a solid foundation for the work ahead. If
 you are brand new to inline skating, before starting Phase 1 you should go to
 the Skating Basics section on rollerblade.com before proceeding. Once you’ve
 got the basics of movement and stopping down, you’re ready for Phase 1.
-
 ## A-Frame turn
-
 ![A-Frame](/assets/images/a-frame.jpg){: .align-right}
-
 ### Terrain
-
 Begin on a smooth, flat, paved surface with no slope.
-
 ### Objective
-
 This drill is a great way to develop a balanced stance and learn direction change at
 slow to medium speeds. This is the equivalent of the wedge turn on skis. The goal is
 to learn to link turns using the A-frame stance.
-
 ### If done correctly
-
 * Knees and ankles are flexed throughout
 * Upper body calm and upright, hips over heels, knees over toes
 * Feet are wider than hip width apart, with 70% pressure applied to outside leg,
 30% on the inside leg
 * Turns are on inside edges, round, smooth, and linked together
-
 ### Common challenges
-
 * Feet come together, A-frame stance is lost
 * Leaning into the turn, putting more pressure on inside leg
 * One foot gets ahead of the other
 * Upper body rotation towards the turn
-
 ### Summary
-
 Maintain a flexed ready stance throughout the turn. Keep both feet at the same width,
 and do not let one leg advance in front of the other. If you are having trouble, direct
 more pressure to the outside skate. This will allow the inside leg to rotate through the
@@ -178,37 +150,26 @@ turn more easily.
 Once you have the A-Frame turn mastered in both directions, using a little more
 momentum, practice linking several turns in a row or down a very slight slope.
 Experiment with a wider or a narrower stance to see how this affects turn shape.
-
 ## Braking on a hill (if not dismantled)
-
 ### Terrain
-
 Choose a very slight slope to test and improve your ability to use the brake
 effectively. Braking down a hill requires significantly more skill than braking
 on a level surface.
-
 ### Objective
-
 To learn speed control and stopping while going down a slope. To develop the braking
 skill and confidence needed to safely navigate slight to moderately sloped surfaces.
-
 ### If done correctly
-
 * Knees and ankles are deeply flexed, hands out front
 * The braking foot is scissored fully out in front of the back balancing foot
 * The stance should be as narrow as possible – less than hip width
 * Pressure is applied gradually to the braking foot until almost 100% of pressure is
 applied directly to the brake pad
-
 ### Common challenges
-
 * Braking foot not scissored forward far enough
 * Turning as brake is applied = Stance is too wide
 * Upper body bending forward at waist
 * Legs straight and locked instead of flexed
-
 ### Summary
-
 After you’re comfortable stopping on the flats at different speeds, its time to start
 experimenting with different slopes to see how your newfound braking skills hold up.
 Try slowing yourself with your brake pad but not stopping. Speed control is an essential
@@ -216,20 +177,15 @@ part of skating no matter what terrain your skating.
 Respect gravity. Take on increasingly steeper slopes only when you are 100% confident
 in your ability to slow and stop yourself. The faster you are moving, and the steeper the
 slope, the longer distance you will need to stop.
-
 ## Striding for power
-
 ### Terrain
 Begin on a smooth, flat, paved surface with no slope. Ideally you should pick
 a route where you are able to skate in one direction for at least 5-10 minutes.
-
 ### Objective
 To learn a more powerful, efficient stride. Develop a deeper, longer stride that begins
 from the outside edge and finishes on the inside edge of the wheels. The motion
 should be very similar to skate skiing.
-
 ### If done correctly
-
 * The striding foot is placed down directly on, or slightly past, a center line under
 your hips
 * The striding foot is placed down pointing directly forward
@@ -237,15 +193,12 @@ your hips
 balance on the foot about to stride
 * There is a gliding moment on one leg before pushing off again on the next stride
 * Knee of the gliding leg is flexed and over the toe
-
 ### Common challenges
 * Constant striding with no gliding in between strides
 * Short choppy strides only using inside edges of wheels
 * Stride foot placed down at an angle like a duck
 * Knees and ankles not flexed enough
-
 ### Summary
-
 Start the stride with your pinky toe (outside edge). Push and roll your foot all the way
 through your heel (inside edge) to get as much power out of your stride as possible. As
 the power from your stride increases, you can spend more time gliding between pushes
@@ -255,9 +208,7 @@ ensure you are truly gliding between strides.
 Remember that loose fitting skates are like poor fitting ski boots – and will make this
 skill difficult to perform. Check to ensure that all laces are tied and buckles are snug to
 allow for better power transfer and balance.
-
 ## Parallel turns
-
 ### Terrain
 Begin on a smooth, flat, paved surface. A very slight slope may be helpful
 to fully develop this skill. Without any pitch it can be harder to create and
