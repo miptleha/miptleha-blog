@@ -14,7 +14,7 @@ tags:
 
 **November 11th**. The season of hunting for deers soon opens. It is awful! I can not present myself, that at whom that can rise a hand on this lovely, harmless creation. Any day we expect a snow. Here it is pleasant to me!
 
-**December 2th**. At last that! The snow This night has dropped out. HURRAH!!! Having woken up to morning, we have found out a charming picture behind a window. All is covered by a snow-white, fluffy coverlet. A kind, as on a surprising christmas card! I am admired! We with the wife have joyfully run out from the house, and bystrenko having cleared a porch and a parking before the house, we with a laughter began to throw snowballs. (I have won). Suddenly the snowplow has driven by us, having filled up all parking a snow. But it I have not upset us, and bystrenko otkidal a snow back. As here it is good! I like Canada!
+**December 2th**. At last that! The snow This night has dropped out. HURRAH!!! Having woken up to morning, we have found out a charming picture behind a window. All is covered by a snow-white, fluffy coverlet. A kind, as on a surprising christmas card! I am admired! We with the wife have joyfully run out from the house, and quickly cleared a porch and a parking before the house, we with a laughter began to throw snowballs. (I have won). Suddenly the snowplow has driven by us, having filled up all parking a snow. But it I have not upset us, and throw a snow back. As here it is good! I like Canada!
 
 **December 12th**. The snow this night has again dropped out. The snowplow has repeated the trick and has filled up a parking.
 
@@ -28,8 +28,8 @@ tags:
 
 **December 28th**. This m@*n from a bureau of forecasts was mistaken! 50 centimeters have dropped out. Similar, this... the snow will not melt till the summer. The snowplow has got stuck near our house, and this *dak the driver has come running to us with the request to borrow a shovel. I have told to him, that have broken six shovels, throwing back that white *rmo with which he filled up our parking, and now I shall break the seventh about his mutton head.
 
-**January 4th**. Today at last that has got out from the house!!! Has gone to shop to buy food. And here, on a return way this cattle - a deer and brakes hoofs all car front takes off on road. Injury on three thousand dollars!!! Well why hunters not kills these * skud in November? These deers everywhere and everywhere. That them would break off!
+**January 4th**. Today at last we were able to get out from the house!!! Has gone to shop to buy food. And here, on a return way this cattle - a deer and brakes hoofs all car front takes off on road. Injury on three thousand dollars!!! Well why hunters not kills these * skud in November? These deers everywhere and everywhere. That them would break off!
 
 **May 3th**. Has brought the car to a workshop. You will not believe, but this cart has had time to rust at all, from salt which goats from urban services strewed on roads.
 
-**May 10th**. All! I leave for Florida. I can not present myself, that somebody, being in sensible mind, will wish to live in this Canada! 
+**May 10th**. All! I leave for Florida. I can not present myself, that somebody, being in sensible mind, will wish to live in this Canada!
