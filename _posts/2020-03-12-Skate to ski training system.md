@@ -152,7 +152,7 @@ got the basics of movement and stopping down, you’re ready for Phase 1.
 Begin on a smooth, flat, paved surface with no slope.
 
 **Objective**
-![A-Frame](/assets/images/a-frame.jpg){: .align-right}
+![A-Frame](/assets/images/skate-a-frame.jpg){: .align-right}
 This drill is a great way to develop a balanced stance and learn direction change at
 slow to medium speeds. This is the equivalent of the wedge turn on skis. The goal is
 to learn to link turns using the A-frame stance.
@@ -194,7 +194,7 @@ on a level surface.
 
 **Objective**
 
-![Braking](/assets/images/braking.jpg){: .align-left}
+![Braking](/assets/images/skate-braking.jpg){: .align-left}
 To learn speed control and stopping while going down a slope. To develop the braking
 skill and confidence needed to safely navigate slight to moderately sloped surfaces.
 
@@ -232,7 +232,7 @@ a route where you are able to skate in one direction for at least 5-10 minutes.
 
 **Objective**
 
-![Striding](/assets/images/striding.jpg){: .align-right}
+![Striding](/assets/images/skate-striding.jpg){: .align-right}
 To learn a more powerful, efficient stride. Develop a deeper, longer stride that begins
 from the outside edge and finishes on the inside edge of the wheels. The motion
 should be very similar to skate skiing.
@@ -276,7 +276,7 @@ maintain momentum throughout linked parallel turns.
 
 **Objective**
 
-![Parallel turns](/assets/images/parallel-turns.jpg){: .align-left}
+![Parallel turns](/assets/images/skate-parallel-turns.jpg){: .align-left}
 This is like progressing from wedge turns on skis to parallel turns. It is the breakthrough
 skill that will allow you to truly cross-train for skiing on skates. If you’re
 already familiar with parallel turns on skis, you have two legs up in learning this skill
@@ -366,7 +366,7 @@ to a smooth, flat, paved surface with no slope.
 
 **Objective**
 
-![Balance](/assets/images/balance.jpg){: .align-right}
+![Balance](/assets/images/skate-balance.jpg){: .align-right}
 
 To develop a solid sense of balance and coordination on your skates.
 
@@ -406,7 +406,7 @@ making consistent, medium radius turns.
 
 **Objective**
 
-![Angulation turns](/assets/images/angulation-turns.jpg){: .align-left}
+![Angulation turns](/assets/images/skate-angulation-turns.jpg){: .align-left}
 To evolve the basic parallel turn into a more dynamic and energized turn. To use the
 turn to manage speed and direction on sloped terrain.
 
@@ -436,36 +436,42 @@ when you are 100% confident in your ability to slow and stop yourself. Finding t
 slope is essential for this drill. Too little will prevent momentum needed for continuous
 turns and deeper angulation. Too much slope will make this too difficult and potentially
 cause a loss of control.
-26
-LINE JUMPS
-15
-150
-15
-150
-27
-TERRAIN (LINE JUMPS)
+
+## Line jumps
+
+**Terrain**
+
 Ideally a flat, empty parking lot with parking space lines. If no painted lines
 are available, you can place cones an even distance apart.
-OBJECTIVE
+
+**Objective**
+
+![Line jumps](/assets/images/skate-line-jumps.jpg){: .align-right}
 To jump consecutive lines while maintaining balance during take off and landing.
 Progressing your balance and agility to include small jumps while rolling.
-IF DONE CORRECTLY
-►► Skater should lift both feet off the ground simultaneously
-►► Skater should maintain balance lifting off the ground and on landing
-►► Feet remain hip width apart and are parallel at all times
-COMMON CHALLENGES
-►► Skater is landing loudly
-►► Skater is using the upper body in excess to lift feet off ground – jumping with the
+
+**If done correctly**
+
+* Skater should lift both feet off the ground simultaneously
+* Skater should maintain balance lifting off the ground and on landing
+* Feet remain hip width apart and are parallel at all times
+
+**Common challenges**
+
+* Skater is landing loudly
+* Skater is using the upper body in excess to lift feet off ground – jumping with the
 upper body as opposed to the lower body
-►► Skater is not maintaining a straight line
-►► Skater is not landing on both feet simultaneously
-SUMMARY
+* Skater is not maintaining a straight line
+* Skater is not landing on both feet simultaneously
+
+**Summary**
+
 Skating like skiing will require you to avoid obstacles. A deep crack, sewer grate,
 sidewalk curb, or unsavory road kill may be in your future. Learning to jump and land
 while maintaining balance in motion is an important skill in your quiver. Once you have
 mastered line jumps on flat terrain, try doing them on a slight to moderate slope.
-28
-T-STOPPING
+
+## T-stopping
 15
 150 150
 29
