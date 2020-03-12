@@ -8,7 +8,7 @@ tags:
   - Skate
 ---
 
-# Welcome to the skate to ski training system!
+## Welcome to the skate to ski training system!
 
 Inline skating has been a great way to cross-train for skiing for years. Many of us here
 at Rollerblade® are also lifelong skiers. We challenged ourselves to take what has
@@ -28,7 +28,7 @@ We hope you’ll find this program as fun to try out as it was for us to build. 
 able to progress through the entire program, you will absolutely be in the best skiready
 shape possible for next winter.
 
-## Things to know before you roll
+### Things to know before you roll
 
 **New to skating?**
 
@@ -64,7 +64,7 @@ You’re free to try these exercises with poles if you wish. Just make sure they
 distracting you from the task at hand. And most importantly, make sure they don’t cause
 a risk to you or anyone around you.
 
-## Choosing terrain
+### Choosing terrain
 
 Just like in skiing, it’s important to skate on terrain that’s within your ability to navigate
 safely. Unlike in skiing, there are no trail markers to let you know what lies ahead.
@@ -111,7 +111,7 @@ slope, not steep, that will cause you to rapidly pick up speed. At no point is
 a steep slope recommended or necessary to use the Skate to Ski Training
 System.
 
-## Pre-skate checklist
+### Pre-skate checklist
 
 Always inspect your skating equipment before each use. You wouldn’t head out on the
 slopes without properly functioning bindings, skis, or boots. Same should be true for
@@ -138,20 +138,21 @@ being too tight or uncomfortable.
 when first starting out.
 * Wear ALL the protective gear - helmet, wrist guards, elbow and knee pads.
 
-# Phase 1
+## Phase 1
 
 In Phase 1 the focus is on creating a solid foundation for the work ahead. If
 you are brand new to inline skating, before starting Phase 1 you should go to
 the Skating Basics section on rollerblade.com before proceeding. Once you’ve
 got the basics of movement and stopping down, you’re ready for Phase 1.
 
-## A-Frame turn
+### A-Frame turn
 
 **Terrain**
 
 Begin on a smooth, flat, paved surface with no slope.
 
 **Objective**
+
 ![A-Frame](/assets/images/skate-a-frame.jpg){: .align-right}
 This drill is a great way to develop a balanced stance and learn direction change at
 slow to medium speeds. This is the equivalent of the wedge turn on skis. The goal is
@@ -184,7 +185,7 @@ Once you have the A-Frame turn mastered in both directions, using a little more
 momentum, practice linking several turns in a row or down a very slight slope.
 Experiment with a wider or a narrower stance to see how this affects turn shape.
 
-## Braking on a hill (if not dismantled)
+### Braking on a hill (on skate with brake)
 
 **Terrain**
 
@@ -223,7 +224,7 @@ Respect gravity. Take on increasingly steeper slopes only when you are 100% conf
 in your ability to slow and stop yourself. The faster you are moving, and the steeper the
 slope, the longer distance you will need to stop.
 
-## Striding for power
+### Striding for power
 
 **Terrain**
 
@@ -266,7 +267,7 @@ Remember that loose fitting skates are like poor fitting ski boots – and will 
 skill difficult to perform. Check to ensure that all laces are tied and buckles are snug to
 allow for better power transfer and balance.
 
-## Parallel turns
+### Parallel turns
 
 **Terrain**
 
@@ -305,7 +306,7 @@ to progress to a slight slope that you feel comfortable with. The perfect locati
 continuous slight slope that allows you to maintain momentum as you link one turn to
 the next.
 
-## Free skate
+### Free skate
 
 **Terrain**
 
@@ -342,7 +343,7 @@ Continue with your free skating until parallel turns, long smooth strides, and c
 speed on slight to moderate hills becomes routine. When you reach this milestone, you
 are ready to move on to Phase 2 and beyond.
 
-## Phase 1 checklist
+### Phase 1 checklist
 
 Before progressing to phase 2, make sure you
 are solid on the following:
@@ -356,9 +357,9 @@ are solid on the following:
 * Knowing how to identify appropriate terrain within your ability
 * Being able to free skate for 30 minutes at a moderate pace
 
-# Phase 2
+## Phase 2
 
-## Balance & agility
+### Balance & agility
 
 **Terrain**
 Begin on a smooth, flat, non-rolling surface such as grass or carpet. Progress
@@ -367,7 +368,6 @@ to a smooth, flat, paved surface with no slope.
 **Objective**
 
 ![Balance](/assets/images/skate-balance.jpg){: .align-right}
-
 To develop a solid sense of balance and coordination on your skates.
 
 **If done correctly**
@@ -398,7 +398,7 @@ on only the toe wheel
 * Pumping both legs from narrow to out wide to narrow again repeatedly as you
 glide forward (sometimes called swizzles)
 
-## Angulation turns
+### Angulation turns
 
 **Terrain**
 Find a low to moderate pitch that allows you to maintain momentum while
@@ -437,7 +437,7 @@ slope is essential for this drill. Too little will prevent momentum needed for c
 turns and deeper angulation. Too much slope will make this too difficult and potentially
 cause a loss of control.
 
-## Line jumps
+### Line jumps
 
 **Terrain**
 
@@ -471,84 +471,99 @@ sidewalk curb, or unsavory road kill may be in your future. Learning to jump and
 while maintaining balance in motion is an important skill in your quiver. Once you have
 mastered line jumps on flat terrain, try doing them on a slight to moderate slope.
 
-## T-stopping
-15
-150 150
-29
-TERRAIN (T-STOPPING)
+### T-stopping
+
+**Terrain**
+
 Begin on a smooth, flat, paved surface. As you become stronger with the
 T-Stop, progress to slightly sloped surfaces.
-OBJECTIVE
+
+**Objective**
+
+![T-stopping](/assets/images/skate-t-stopping.jpg){: .align-left}
 To learn an alternate method of speed control and slowing to a stop on inline skates.
-IF DONE CORRECTLY
-►► Motion begins with 100% of weight on the front foot
-►► Ankles & knees are deeply flexed with front knee over the front toe
-►► Skater drags back foot with even weight and pressure progressively applied to all
+
+**If done correctly**
+
+* Motion begins with 100% of weight on the front foot
+* Ankles & knees are deeply flexed with front knee over the front toe
+* Skater drags back foot with even weight and pressure progressively applied to all
 wheels evenly
-►► Dragging foot is perpendicular to front foot
-►► Rolling front foot should be perpendicular to the ground or even balanced slightly
+* Dragging foot is perpendicular to front foot
+* Rolling front foot should be perpendicular to the ground or even balanced slightly
 on the outside edge of the wheels
-►► Heel of the dragging foot is 12”-18” directly behind the heel of the rolling foot
-COMMON CHALLENGES
-►► Skater spins around due to too much weight too quickly on the dragging foot
-►► Skater spins around due to dragging foot being out to the side rather than directly
+* Heel of the dragging foot is 12”-18” directly behind the heel of the rolling foot
+
+**Common challenges**
+* Skater spins around due to too much weight too quickly on the dragging foot
+* Skater spins around due to dragging foot being out to the side rather than directly
 behind
-►► Skater spins around due to front rolling foot leaning on inside edge of wheels
-►► Skater drags only the toe wheel rather than all wheels evenly
-SUMMARY
+* Skater spins around due to front rolling foot leaning on inside edge of wheels
+* Skater drags only the toe wheel rather than all wheels evenly
+
+**Summary**
 T-Stopping is a great skill to add to your quiver. For those who prefer to skate without
 a brake, T-Stopping is essential. Remember though that slowing and stopping with a
 brake is more effective than T-Stopping.
+
 If you are struggling with T-stopping, try a rolling lunge with almost 100% of weight on
 front rolling foot. Maintain just enough pressure on the back rolling toe wheel to prevent
 it from wobbling. When you are comfortable maintaining this rolling position, the
 next move is to pivot the back foot over to become the dragging foot. Remember there
 should be almost no weight on the dragging foot initially. Once all wheels are dragging,
 progressively add pressure to the dragging foot while tracking straight forward.
-30
-SKATING UPHILL
-15
-150
-150
-150
-31
-TERRAIN (SKATING UPHILL)
+
+### Skating uphill
+
+**Terrain**
+
 The most ideal location for learning this skill is a loop with a short, steep
 incline going up, that leads to a more gradual slope going down to practice
 other skills.
-OBJECTIVE
+
+**Objective**
+
+![Skating uphill](/assets/images/skate-uphill.jpg){: .align-left}
 Develop solid technique for getting to the top of inclined terrain. Use uphill skating
 to improve your cardio, power, and endurance.
-IF DONE CORRECTLY
-►► Skater will only skate up terrain they are able to safely skate down
-►► Skater should use a wider more open stride to maintain momentum and pace
+
+**If done correctly**
+
+* Skater will only skate up terrain they are able to safely skate down
+* Skater should use a wider more open stride to maintain momentum and pace
 uphill, especially on steeper hills
-►► Shoulders face forward while arms swing to generate power
-►► Proper form is maintain as described in “Striding for Power” in Phase 1
-COMMON CHALLENGES
-►► Strides are too short and choppy
-►► Upper body twists into the stride
-►► Skater loses momentum
-SUMMARY
+* Shoulders face forward while arms swing to generate power
+* Proper form is maintain as described in “Striding for Power” in Phase 1
+
+**Common challenges**
+
+* Strides are too short and choppy
+* Upper body twists into the stride
+* Skater loses momentum
+
+**Summary**
+
 Many of the skill in this program require skating down a slope. Getting to the top of
 a hill on inline skates takes effort. It’s an amazingly effective way to develop aerobic
 and anaerobic fitness. With inline skating you truly have to earn your turns.
 As you progress through the program, a great terrain choice is a loop where you can
 gain most of your elevation up a steeper incline that leads to a more gradual decent
 back to your start point. This is perfect for interval training – intense up, gradual down.
-32
-PHASE 2 CHECKLIST
-Balancing in motion on each leg individually
-Turning with deep knee and ankle flexion and angulation
-Making smooth and consistent short and long radius turns
-Safely navigating slight to moderately sloped terrain
-Jumping vertically while rolling
-Effectively T-Stopping for speed control
-Maintaining momentum and good form while uphill skating
-BEFORE PROGRESSING TO PHASE 3, MAKE SURE YOU
-ARE SOLID ON THE FOLLOWING:
-33
-PHASE 3
+
+### Phase 2 checklist
+
+Before progressing to phase 3, make sure you
+are solid on the following:
+
+* Balancing in motion on each leg individually
+* Turning with deep knee and ankle flexion and angulation
+* Making smooth and consistent short and long radius turns
+* Safely navigating slight to moderately sloped terrain
+* Jumping vertically while rolling
+* Effectively T-Stopping for speed control
+* Maintaining momentum and good form while uphill skating
+
+## Phase 3
 1. UPHILL HAND DOWN THE HILL
 2. HOURGLASS TURNS
 3. LANE CHANGES
