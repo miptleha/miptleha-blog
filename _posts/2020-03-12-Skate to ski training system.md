@@ -183,7 +183,7 @@ Once you have the A-Frame turn mastered in both directions, using a little more
 momentum, practice linking several turns in a row or down a very slight slope.
 Experiment with a wider or a narrower stance to see how this affects turn shape.
 
-### Braking on a hill (on skate with brake)
+### Braking on a hill
 
 **Terrain**
 
