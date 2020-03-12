@@ -123,6 +123,7 @@ you are brand new to inline skating, before starting Phase 1 you should go to
 the Skating Basics section on rollerblade.com before proceeding. Once you’ve
 got the basics of movement and stopping down, you’re ready for Phase 1.
 ## A-Frame turn
+Haha
 ![A-Frame](/assets/images/a-frame.jpg){: .align-right}
 ### Terrain
 Begin on a smooth, flat, paved surface with no slope.
