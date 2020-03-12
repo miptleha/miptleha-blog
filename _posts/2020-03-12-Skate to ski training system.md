@@ -140,10 +140,8 @@ when first starting out.
 
 ## Phase 1
 
-In Phase 1 the focus is on creating a solid foundation for the work ahead. If
-you are brand new to inline skating, before starting Phase 1 you should go to
-the Skating Basics section on rollerblade.com before proceeding. Once you’ve
-got the basics of movement and stopping down, you’re ready for Phase 1.
+Once you’ve
+got the basics of movement and stopping down, you’re ready for Phase 1. In Phase 1 the focus is on creating a solid foundation for the work ahead.
 
 ### A-Frame turn
 
