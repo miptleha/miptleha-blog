@@ -364,12 +364,13 @@ more ski-specific movements.
 ### Balance & agility
 
 **Terrain**
+
+![Balance](/assets/images/skate-balance.jpg){: .align-right}
 Begin on a smooth, flat, non-rolling surface such as grass or carpet. Progress
 to a smooth, flat, paved surface with no slope.
 
 **Objective**
 
-![Balance](/assets/images/skate-balance.jpg){: .align-right}
 To develop a solid sense of balance and coordination on your skates.
 
 **If done correctly**
