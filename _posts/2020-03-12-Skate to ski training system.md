@@ -149,11 +149,11 @@ got the basics of movement and stopping down, you’re ready for Phase 1.
 
 **Terrain**
 
+![A-Frame](/assets/images/skate-a-frame.jpg){: .align-right}
 Begin on a smooth, flat, paved surface with no slope.
 
 **Objective**
 
-![A-Frame](/assets/images/skate-a-frame.jpg){: .align-right}
 This drill is a great way to develop a balanced stance and learn direction change at
 slow to medium speeds. This is the equivalent of the wedge turn on skis. The goal is
 to learn to link turns using the A-frame stance.
@@ -189,13 +189,13 @@ Experiment with a wider or a narrower stance to see how this affects turn shape.
 
 **Terrain**
 
+![Braking](/assets/images/skate-braking.jpg){: .align-right}
 Choose a very slight slope to test and improve your ability to use the brake
 effectively. Braking down a hill requires significantly more skill than braking
 on a level surface.
 
 **Objective**
 
-![Braking](/assets/images/skate-braking.jpg){: .align-left}
 To learn speed control and stopping while going down a slope. To develop the braking
 skill and confidence needed to safely navigate slight to moderately sloped surfaces.
 
@@ -228,12 +228,12 @@ slope, the longer distance you will need to stop.
 
 **Terrain**
 
+![Striding](/assets/images/skate-striding.jpg){: .align-right}
 Begin on a smooth, flat, paved surface with no slope. Ideally you should pick
 a route where you are able to skate in one direction for at least 5-10 minutes.
 
 **Objective**
 
-![Striding](/assets/images/skate-striding.jpg){: .align-right}
 To learn a more powerful, efficient stride. Develop a deeper, longer stride that begins
 from the outside edge and finishes on the inside edge of the wheels. The motion
 should be very similar to skate skiing.
@@ -271,13 +271,13 @@ allow for better power transfer and balance.
 
 **Terrain**
 
+![Parallel turns](/assets/images/skate-parallel-turns.jpg){: .align-right}
 Begin on a smooth, flat, paved surface. A very slight slope may be helpful
 to fully develop this skill. Without any pitch it can be harder to create and
 maintain momentum throughout linked parallel turns.
 
 **Objective**
 
-![Parallel turns](/assets/images/skate-parallel-turns.jpg){: .align-left}
 This is like progressing from wedge turns on skis to parallel turns. It is the breakthrough
 skill that will allow you to truly cross-train for skiing on skates. If you’re
 already familiar with parallel turns on skis, you have two legs up in learning this skill
@@ -359,6 +359,10 @@ are solid on the following:
 
 ## Phase 2
 
+In Phase 2 the focus shifts from skating on flat surfaces into using slightly
+sloped terrain. In this phase, you’ll begin to apply your foundation skills into
+more ski-specific movements.
+
 ### Balance & agility
 
 **Terrain**
@@ -392,6 +396,7 @@ Inline skates have a much shorter platform on which to balance than skis. Develo
 stable platform is essential to progressing with your skating. The video offers some basic
 balance exercises. Try out some other motions to truly challenge and hone your sense of
 balance and coordination on skates:
+
 * A rolling lunge with the front leg in a deep bend and the back leg tracking behind
 on only the toe wheel
 * Gliding straight balancing on only one foot for as long as possible
@@ -401,12 +406,13 @@ glide forward (sometimes called swizzles)
 ### Angulation turns
 
 **Terrain**
+
+![Angulation turns](/assets/images/skate-angulation-turns.jpg){: .align-right}
 Find a low to moderate pitch that allows you to maintain momentum while
 making consistent, medium radius turns.
 
 **Objective**
 
-![Angulation turns](/assets/images/skate-angulation-turns.jpg){: .align-left}
 To evolve the basic parallel turn into a more dynamic and energized turn. To use the
 turn to manage speed and direction on sloped terrain.
 
@@ -441,12 +447,12 @@ cause a loss of control.
 
 **Terrain**
 
+![Line jumps](/assets/images/skate-line-jumps.jpg){: .align-right}
 Ideally a flat, empty parking lot with parking space lines. If no painted lines
 are available, you can place cones an even distance apart.
 
 **Objective**
 
-![Line jumps](/assets/images/skate-line-jumps.jpg){: .align-right}
 To jump consecutive lines while maintaining balance during take off and landing.
 Progressing your balance and agility to include small jumps while rolling.
 
@@ -475,12 +481,12 @@ mastered line jumps on flat terrain, try doing them on a slight to moderate slop
 
 **Terrain**
 
+![T-stopping](/assets/images/skate-t-stopping.jpg){: .align-right}
 Begin on a smooth, flat, paved surface. As you become stronger with the
 T-Stop, progress to slightly sloped surfaces.
 
 **Objective**
 
-![T-stopping](/assets/images/skate-t-stopping.jpg){: .align-left}
 To learn an alternate method of speed control and slowing to a stop on inline skates.
 
 **If done correctly**
@@ -495,6 +501,7 @@ on the outside edge of the wheels
 * Heel of the dragging foot is 12”-18” directly behind the heel of the rolling foot
 
 **Common challenges**
+
 * Skater spins around due to too much weight too quickly on the dragging foot
 * Skater spins around due to dragging foot being out to the side rather than directly
 behind
@@ -502,6 +509,7 @@ behind
 * Skater drags only the toe wheel rather than all wheels evenly
 
 **Summary**
+
 T-Stopping is a great skill to add to your quiver. For those who prefer to skate without
 a brake, T-Stopping is essential. Remember though that slowing and stopping with a
 brake is more effective than T-Stopping.
@@ -517,13 +525,13 @@ progressively add pressure to the dragging foot while tracking straight forward.
 
 **Terrain**
 
+![Skating uphill](/assets/images/skate-uphill.jpg){: .align-right}
 The most ideal location for learning this skill is a loop with a short, steep
 incline going up, that leads to a more gradual slope going down to practice
 other skills.
 
 **Objective**
 
-![Skating uphill](/assets/images/skate-uphill.jpg){: .align-left}
 Develop solid technique for getting to the top of inclined terrain. Use uphill skating
 to improve your cardio, power, and endurance.
 
@@ -564,19 +572,12 @@ are solid on the following:
 * Maintaining momentum and good form while uphill skating
 
 ## Phase 3
-1. UPHILL HAND DOWN THE HILL
-2. HOURGLASS TURNS
-3. LANE CHANGES
-4. TRAVERSING
-5. STOMP TURNS
+
 In Phase 3 the focus shifts into true ski specific cross-training exercises.
 For anyone who has trained for ski racing, many of these drills should
 look familiar.
-34
+
 UPHILL HAND DOWN THE HILL
-150 25
-150
-35
 TERRAIN (UPHILL HAND DOWN THE HILL)
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to travel across the fall line for a few
