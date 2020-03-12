@@ -8,6 +8,25 @@ tags:
   - Skate
 ---
 
+# Welcome to the skate to ski training system!
+
+Inline skating has been a great way to cross-train for skiing for years. Many of us here
+at Rollerblade® are also lifelong skiers. We challenged ourselves to take what has
+always been an informal way for us to maintain ski-ready fitness, and transform it into
+a training program that truly mirrors the movements and skills used in skiing.
+
+We teamed up with our friends at the Professional Ski Instructors of Amarica® and U.S.
+Ski and Snowboard to build out a program based on proven methods of training. The
+result is a series of videos and this companion guidebook.
+
+The program is designed as a progression of Phases. In Phase 1, you’ll cover basic skills
+that ensure you’re ready to progress. Phases 2-4 get into true cross-training for skiing.
+Many of these drills are derived from proven methods of ski training drills used by the
+PSIA and the U.S. Ski Team.
+
+We hope you’ll find this program as fun to try out as it was for us to build. And if you’re
+able to progress through the entire program, you will absolutely be in the best skiready
+shape possible for next winter.
 
 # Things to know before you roll
 
@@ -122,6 +141,8 @@ got the basics of movement and stopping down, you’re ready for Phase 1.
 
 ## A-Frame turn
 
+![A-Frame](/assets/images/a-frame.jpg){: .align-right}
+
 ### Terrain
 
 Begin on a smooth, flat, paved surface with no slope.
@@ -197,47 +218,47 @@ in your ability to slow and stop yourself. The faster you are moving, and the st
 slope, the longer distance you will need to stop.
 
 ## Striding for power
-15
-150
-150
-150
-15
-TERRAIN (STRIDING FOR POWER)
+
+### Terrain
 Begin on a smooth, flat, paved surface with no slope. Ideally you should pick
 a route where you are able to skate in one direction for at least 5-10 minutes.
-OBJECTIVE
+
+### Objective
 To learn a more powerful, efficient stride. Develop a deeper, longer stride that begins
 from the outside edge and finishes on the inside edge of the wheels. The motion
 should be very similar to skate skiing.
-IF DONE CORRECTLY
-►► The striding foot is placed down directly on, or slightly past, a center line under
+
+### If done correctly
+
+* The striding foot is placed down directly on, or slightly past, a center line under
 your hips
-►► The striding foot is placed down pointing directly forward
-►► The stride starts on the outside edge of the wheels requiring 100% momentary
+* The striding foot is placed down pointing directly forward
+* The stride starts on the outside edge of the wheels requiring 100% momentary
 balance on the foot about to stride
-►► There is a gliding moment on one leg before pushing off again on the next stride
-►► Knee of the gliding leg is flexed and over the toe
-COMMON CHALLENGES
-►► Constant striding with no gliding in between strides
-►► Short choppy strides only using inside edges of wheels
-►► Stride foot placed down at an angle like a duck
-►► Knees and ankles not flexed enough
-SUMMARY
+* There is a gliding moment on one leg before pushing off again on the next stride
+* Knee of the gliding leg is flexed and over the toe
+
+### Common challenges
+* Constant striding with no gliding in between strides
+* Short choppy strides only using inside edges of wheels
+* Stride foot placed down at an angle like a duck
+* Knees and ankles not flexed enough
+
+### Summary
+
 Start the stride with your pinky toe (outside edge). Push and roll your foot all the way
 through your heel (inside edge) to get as much power out of your stride as possible. As
 the power from your stride increases, you can spend more time gliding between pushes
 for more efficient skating. Try using a cadence count of 1, 2, 3 throughout each stride to
 ensure you are truly gliding between strides.
+
 Remember that loose fitting skates are like poor fitting ski boots – and will make this
 skill difficult to perform. Check to ensure that all laces are tied and buckles are snug to
 allow for better power transfer and balance.
-16
-PARALLEL TURNS
-
-15
-150 150
-17
-TERRAIN (PARALLEL TURNS)
+
+## Parallel turns
+
+### Terrain
 Begin on a smooth, flat, paved surface. A very slight slope may be helpful
 to fully develop this skill. Without any pitch it can be harder to create and
 maintain momentum throughout linked parallel turns.
