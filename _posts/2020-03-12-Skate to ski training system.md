@@ -357,51 +357,47 @@ are solid on the following:
 * Being able to free skate for 30 minutes at a moderate pace
 
 # Phase 2
-1. BALANCE & AGILITY
-2. ANGULATION TURNS
-3. LINE JUMPERS
-4. T-STOPPING
-5. UPHILL SKATING
-In Phase 2 the focus shifts from skating on flat surfaces into using slightly
-sloped terrain. In this phase, you’ll begin to apply your foundation skills into
-more ski-specific movements.
-22
-BALANCE & AGILITY
-150
-15
-150
-15
-150
-23
-TERRAIN (BALANCE & AGILITY)
+
+## Balance & agility
+
+**Terrain**
 Begin on a smooth, flat, non-rolling surface such as grass or carpet. Progress
 to a smooth, flat, paved surface with no slope.
-OBJECTIVE
+
+**Objective**
+
+![Balance](/assets/images/balance.jpg){: .align-right}
+
 To develop a solid sense of balance and coordination on your skates.
-IF DONE CORRECTLY
-►► Skater is able to maintain tempo of lateral hops and hold steady on one foot
+
+**If done correctly**
+
+* Skater is able to maintain tempo of lateral hops and hold steady on one foot
 between jumps
-►► A proper ready stance is maintained with ankles and knees flexed
-►► Skater is able to balance and roll short distances on each foot equally and
+* A proper ready stance is maintained with ankles and knees flexed
+* Skater is able to balance and roll short distances on each foot equally and
 independently
-►► Upper body becomes more relaxed and calm throughout the skating motion
-►► Leg movements become smooth and controlled while skating
-COMMON CHALLENGES
-►► Balance cannot be maintained on one foot
-►► Standing too tall without proper ankle and knee flexion
-►► Frequent excessive upper body movement to recover balance
-►► Skater is too rigid and lacking fluidity during the skating motion
-SUMMARY
+* Upper body becomes more relaxed and calm throughout the skating motion
+* Leg movements become smooth and controlled while skating
+
+**Common challenges**
+
+* Balance cannot be maintained on one foot
+* Standing too tall without proper ankle and knee flexion
+* Frequent excessive upper body movement to recover balance
+* Skater is too rigid and lacking fluidity during the skating motion
+
+**Summary**
 Inline skates have a much shorter platform on which to balance than skis. Developing a
 stable platform is essential to progressing with your skating. The video offers some basic
 balance exercises. Try out some other motions to truly challenge and hone your sense of
 balance and coordination on skates:
-►► A rolling lunge with the front leg in a deep bend and the back leg tracking behind
+* A rolling lunge with the front leg in a deep bend and the back leg tracking behind
 on only the toe wheel
-►► Gliding straight balancing on only one foot for as long as possible
-►► Pumping both legs from narrow to out wide to narrow again repeatedly as you
+* Gliding straight balancing on only one foot for as long as possible
+* Pumping both legs from narrow to out wide to narrow again repeatedly as you
 glide forward (sometimes called swizzles)
-24
+
 ANGULATION TURNS
 15
 150
