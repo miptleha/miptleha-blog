@@ -8,7 +8,7 @@ tags:
   - Skate
 ---
 
-## Welcome to the skate to ski training system!
+## Welcome
 
 Inline skating has been a great way to cross-train for skiing for years. Many of us here
 at Rollerblade® are also lifelong skiers. We challenged ourselves to take what has
@@ -27,6 +27,35 @@ PSIA and the U.S. Ski Team.
 We hope you’ll find this program as fun to try out as it was for us to build. And if you’re
 able to progress through the entire program, you will absolutely be in the best skiready
 shape possible for next winter.
+
+**This exciting new program has been developed
+by rollerblade® in partnership with elite skiers
+around the world.**
+
+![DOUG LEWIS](/assets/images/skate-doug.jpg){: .align-right}
+**DOUG LEWIS - US OLYMPIAN**
+
+“The Rollerblade® Skate to Ski program is the most ski
+specific off-snow program you can do as a skier. Not only
+does it train ski specific movements and patterns that will
+translate into better skiing when you return to snow, but
+it will increase agility, strength, mobility, and work your
+cardiovascular system as well. Plus it’s FUN!”
+
+![KATIE RYAN](/assets/images/skate-katie.jpg){: .align-right}
+**KATIE RYAN - US SKI TEAM**
+
+“The adrenaline rush and freedom I get from skiing in the
+winter I now get from inline skating during the warmer
+months. Skating allows me to be outside with my friends
+and get a great cardio workout.”
+
+![BRENNAN RUBIE](/assets/images/skate-brennan.jpg){: .align-right}
+**BRENNAN RUBIE - US SKI TEAM**
+
+“Whether I’m ripping around the neighborhood, or
+preparing for the next ski season, inline skating is a
+versatile way to have some fun, and switch it up.”
 
 ### Things to know before you roll
 
@@ -577,57 +606,72 @@ In Phase 3 the focus shifts into true ski specific cross-training exercises.
 For anyone who has trained for ski racing, many of these drills should
 look familiar.
 
-UPHILL HAND DOWN THE HILL
-TERRAIN (UPHILL HAND DOWN THE HILL)
+### Uphill hand down the hill
+
+**Terrain**
+
+![Uphill hand](/assets/images/skate-hand.jpg){: .align-right}
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to travel across the fall line for a few
 seconds.
-OBJECTIVE
+
+**Objective**
+
 Establish solid body mechanics between upper and lower body. Develop proper
 weight and edge transition in a turn.
-IF DONE CORRECTLY
-►► The uphill hand is pointed down the fall line towards the transition of the next turn
-►► Upper body remains facing down the hill throughout the turns
-►► Smooth switch of hands with body following the hand into the top of the new turn
-COMMON CHALLENGES
-►► Upper body over-rotates into the turn and doesn’t remain facing down the hill
-►► Confusion on which hand points forward - remember the name of the exercise
-►► Skater only uses arms stiffly without having core of body follow hand into new
+
+**If done correctly**
+
+* The uphill hand is pointed down the fall line towards the transition of the next turn
+* Upper body remains facing down the hill throughout the turns
+* Smooth switch of hands with body following the hand into the top of the new turn
+
+**Common challenges**
+
+* Upper body over-rotates into the turn and doesn’t remain facing down the hill
+* Confusion on which hand points forward - remember the name of the exercise
+* Skater only uses arms stiffly without having core of body follow hand into new
 turn
-►► Skater bent over at the waist
-SUMMARY
+* Skater bent over at the waist
+
+**Summary**
+
 A common challenge in ski and skate turns down a hill is rotating too much at the
 bottom of the turn. By switching hands into the new turn, this naturally stacks your body
 in an efficient way and keeps pressure on your outside skate through the turn.
 Once you have mastered this exercise, you will be more effective in transitioning from
 one turn to the next down a hill.
-36
-HOURGLASS TURNS
-150
-150
-25
-7
-150
-3
-37
-TERRAIN (HOURGLASS TURNS)
+
+### Hourglass turns
+
+**Terrain**
+
+![Uphill hand](/assets/images/skate-hourglass.jpg){: .align-right}
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to set the cones or markers
 according to the instructions in the video. Also ensure that cone placement
 does not create a hazard for anyone.
-OBJECTIVE
+
+**Objective**
+
 To develop speed control through different turn shapes. To be able to vary turn shape
 as conditions demand.
-IF DONE CORRECTLY
-►► Turns are performed smoothly while matching the hourglass shape of the course
-►► Proper Angulation Turn form is maintained as turn shapes vary
-►► Skater uses the full width of the course at the widest points
-COMMON CHALLENGES
-►► Skater loses control of speed
-►► Turns are not symmetrical
-►► Balance is disrupted by changes in rhythm
-►► Skater passes beyond the lane established by the cones
-SUMMARY
+
+**If done correctly**
+
+* Turns are performed smoothly while matching the hourglass shape of the course
+* Proper Angulation Turn form is maintained as turn shapes vary
+* Skater uses the full width of the course at the widest points
+
+**Common challenges**
+
+* Skater loses control of speed
+* Turns are not symmetrical
+* Balance is disrupted by changes in rhythm
+* Skater passes beyond the lane established by the cones
+
+**Summary**
+
 This is the first of two exercises that force you to look and think ahead as you skate
 down a hill. It also requires you to fully utilize the Angulation Turn skills honed
 in Phase 2. By lapping this course, you can also get in some high intensity uphill
@@ -635,31 +679,39 @@ skating between runs.
 For added challenge, add two more pairs of cones at the bottom of the course that
 become medium and then narrow at the finish. This will further challenge your ability
 to control your speed through turn shape.
-38
-LANE CHANGES
-15
-150
-39
-TERRAIN (LANE CHANGES)
+
+### Lane changes
+
+**Terrain**
+
+![Lane changes](/assets/images/skate-lane-changes.jpg){: .align-right}
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to set the cones or markers
 according to the instructions in the video. Also ensure that cone placement
 does not create a hazard for anyone.
-OBJECTIVE
+
+**Objective**
+
 Similar to Hourglass Turns, this drill is also intended to develop speed control
 through different turn shapes. To be able to vary turn shape as conditions demand.
-IF DONE CORRECTLY
-►► Turns are performed smoothly while matching the rhythm of 3 Short Turns followed
+
+**If done correctly**
+
+* Turns are performed smoothly while matching the rhythm of 3 Short Turns followed
 by a Long Traverse
-►► Proper Angulation Turn form is maintained as turn shapes vary
-►► Traverse is perpendicular to the fall line
-►► Skater uses the full width of the course while traversing
-►► Short turns are performed in the outer lanes while maintaining consistent velocity
-COMMON CHALLENGES
-►► Skater traverses down the slope gaining too much speed
-►► Short radius turns are not consistent in shape and velocity
-►► Skater doesn’t complete the 3 turns & traverse before the next cone
-SUMMARY
+* Proper Angulation Turn form is maintained as turn shapes vary
+* Traverse is perpendicular to the fall line
+* Skater uses the full width of the course while traversing
+* Short turns are performed in the outer lanes while maintaining consistent velocity
+
+**Common challenges**
+
+* Skater traverses down the slope gaining too much speed
+* Short radius turns are not consistent in shape and velocity
+* Skater doesn’t complete the 3 turns & traverse before the next cone
+
+**Summary**
+
 This is the second of two exercises that focus on using turn shape to control speed
 and direction. At this point you should be feeling the physical and mental similarities
 between skating down a hill and skiing down a hill.
@@ -667,64 +719,76 @@ Whether you’re a world-class ski racer, or enjoy skiing on a recreational leve
 able to change the rhythm of your turns is an incredibly important skill. This drill
 forces you to constantly change where on the hill you are performing your turns,
 improving agility and control.
-40
-TRAVERSING
-25
-150
-25
-7
-41
-TERRAIN (TRAVERSING)
+
+### Traversing
+
+**Terrain**
+
+![Traversing](/assets/images/skate-traversing.jpg){: .align-right}
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to perform a long traverse. You can
 use your brake or t-stopping skills at the end of each traverse to slow down, or
 simply make a small turn up the hill to slow your momentum.
-OBJECTIVE
+
+**Objective**
+
 Develop strong hip position, coordination, and balance when transitioning from one
 turn into the next. The traverse drill lengthens the time between turns to allow for
 more focus on correct body position.
-IF DONE CORRECTLY
-►► Traverses are perpendicular to the fall line to create the time needed to perform the
+
+**If done correctly**
+
+* Traverses are perpendicular to the fall line to create the time needed to perform the
 movements
-►► Hips are stacked over the knees and ankles
-►► Upper body is balanced and quiet with focus on lower body and feet
-COMMON CHALLENGES
-►► Traversing across the slope at an angle that creates to much acceleration
-►► Skater loses balance performing the required footwork
-►► Foot movement is erratic and heavy-footed instead of controlled and smooth
-SUMMARY
+* Hips are stacked over the knees and ankles
+* Upper body is balanced and quiet with focus on lower body and feet
+
+**Common challenges**
+
+* Traversing across the slope at an angle that creates to much acceleration
+* Skater loses balance performing the required footwork
+* Foot movement is erratic and heavy-footed instead of controlled and smooth
+
+**Summary**
+
 These drills test your ability to move to the new downhill skate and balance on it
 before starting the next turn. It is designed to sniff out weakness in form and allow
 for time in the traverse to correct bad habits.
+
 For added challenge, perform this exercise on a slope that is at the steeper end of
 your comfort zone. Though as always, make sure it isn’t too steep for you to safely
 navigate.
-42
-STOMP TURNS
-150
-3
-15
-150
-43
-TERRAIN (STOMP TURNS)
+
+### Stomp turns
+
+**Terrain**
+
+![Stomp turns](/assets/images/skate-stomp-turns.jpg){: .align-right}
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to set the cones or markers
 according to the instructions in the video. Also ensure that cone placement
 does not create a hazard for anyone.
-OBJECTIVE
+
+**Objective**
 Learn to be centered and balances on outside skate throughout the turn.
-IF DONE CORRECTLY
-►► Skater maintains control through the turn
-►► Shins and knees are aligned
-►► The “stomps” are evenly spaced at the top, middle, and bottom of the turn
-►► The “stomp” inside skate is set down parallel to the outside skate
-►► Stomp is a light touch with weight and balance maintained on outside skate
-COMMON CHALLENGES
-►► Turns aren’t symmetrical
-►► An even “stomp” tempo is not maintained
-►► Skater puts too much weight on the stomping (inside) foot
-►► Skater is not equally proficient with both legs
-SUMMARY
+
+**If done correctly**
+
+* Skater maintains control through the turn
+* Shins and knees are aligned
+* The “stomps” are evenly spaced at the top, middle, and bottom of the turn
+* The “stomp” inside skate is set down parallel to the outside skate
+* Stomp is a light touch with weight and balance maintained on outside skate
+
+**Common challenges**
+
+* Turns aren’t symmetrical
+* An even “stomp” tempo is not maintained
+* Skater puts too much weight on the stomping (inside) foot
+* Skater is not equally proficient with both legs
+
+**Summary**
+
 This exercise is designed to build confidence when balancing solely on the outside
 skate. This drill challenges your independence and balance on each foot. You may
 find this drill more difficult on one side than the other. This is normal and is often the
@@ -733,320 +797,293 @@ easier to trust your weak side when back on snow.
 If you’re struggling to make three smooth stomps, try reducing to two or even one
 stomp. Then build up to three as you gain better balance and confidence with this
 movement.
-44
-PHASE 3 CHECKLIST
-Performing all the exercises within the designated course
-Maintaining good upper and lower body separation and control
-Tapering in and out of wide and short radius turns on a slope
-Maintaining control when changing the lane of travel
-Using turn shape to control speed down a slope
-Transferring weight properly in the transition between turns
-Building confidence balanced on outside skate while turning
-BEFORE PROGRESSING TO PHASE 4, MAKE SURE YOU
-ARE SOLID ON THE FOLLOWING:
-45
-PHASE 4
-1. POWER CARVE
-2. HOP TURN WARM-UPS
-3. HOP TURNS
-4. SINGLE SKATE TURNS
-5. OUTSIDE SKATE TURNS
+
+### Phase 3 checklist
+
+**Before progressing to phase 4, make sure you
+are solid on the following:**
+
+* Performing all the exercises within the designated course
+* Maintaining good upper and lower body separation and control
+* Tapering in and out of wide and short radius turns on a slope
+* Maintaining control when changing the lane of travel
+* Using turn shape to control speed down a slope
+* Transferring weight properly in the transition between turns
+* Building confidence balanced on outside skate while turning
+
+## Phase 4
+
 In Phase 4 the ski specific cross-training ramps up to a higher level of
 challenge. If you can master these drills, you will have developed the
 balance, strength, coordination, and explosive power that will pay huge
 dividends the next time you hit the slopes!
-46
-POWER CARVE
-150
-3
-15
-150
-47
-TERRAIN (POWER CARVE)
+
+### Power carve
+
+**Terrain**
+
+![Power carve](/assets/images/skate-power-carve.jpg){: .align-right}
 Begin on a smooth, flat, paved surface with no slope. Progress to slightly
 uphill terrain.
-OBJECTIVE
+
+**Objective**
+
 To develop leg strength and power by pumping down and out through each parallel
 turn to generate momentum rather than by striding. To eventually apply this skill to
 climb slight inclines.
-IF DONE CORRECTLY
-►► Momentum is created and maintained solely through pump turns
-►► The pump starts from toes and flows to the heel
-►► Legs are contracted at the top of the turn and extended into the bottom of the turn
-►► Isolate the explosive movement in the lower body with relatively quiet upper body
-COMMON CHALLENGES
-►► Momentum is lost
-►► Skater doesn’t get deep enough flexion to “load the spring” at the top of the turn
-►► Excessive upper body motions are used to maintain momentum
-SUMMARY
+
+**If done correctly**
+
+* Momentum is created and maintained solely through pump turns
+* The pump starts from toes and flows to the heel
+* Legs are contracted at the top of the turn and extended into the bottom of the turn
+* Isolate the explosive movement in the lower body with relatively quiet upper body
+
+**Common challenges**
+
+* Momentum is lost
+* Skater doesn’t get deep enough flexion to “load the spring” at the top of the turn
+* Excessive upper body motions are used to maintain momentum
+
+**Summary**
+
 This drill is primarily a strength and conditioning exercise. It is designed to build the
 muscles necessary to load a ski and generate explosive power.
 This skill should be mastered on flat terrain before attempting to use it to push
 yourself up an incline. As you master this skill, try out increasing the degree of incline
 to see if you can maintain momentum.
-48
-HOP TURN WARM-UP
-49
-TERRAIN (HOP TURNS WARM-UP)
+
+### Hop turn warm-up
+
+**Terrain**
+
+![Hop turn warm-up](/assets/images/skate-hop-turn-warm-up.jpg){: .align-right}
 Begin on a flat to slightly sloped grassy area, progressing to a flat to slightly
 sloped paved area.
-OBJECTIVE
+
+**Objective**
+
 To develop the balance, coordination, and body movements necessary for performing
 hop turn on skates.
-IF DONE CORRECTLY
-►► Knees and ankles are deeply flexed, hands out front
-►► Upper body remains squared off facing the fall-line
-►► Compression and extension is done with the legs - minimal motion with the upper
+
+**If done correctly**
+
+* Knees and ankles are deeply flexed, hands out front
+* Upper body remains squared off facing the fall-line
+* Compression and extension is done with the legs - minimal motion with the upper
 body during the jump
-►► Skater is landing as softly as possible
-COMMON CHALLENGES
-►► Upper body rotates along with the lower body, landing facing across the hill
-►► Landing is out of balance and rolling – not across the fall-line
-►► Overly hard landings – legs not absorbing impact
-SUMMARY
+* Skater is landing as softly as possible
+
+**Common challenges**
+
+* Upper body rotates along with the lower body, landing facing across the hill
+* Landing is out of balance and rolling – not across the fall-line
+* Overly hard landings – legs not absorbing impact
+
+**Summary**
+
 This drill is designed to create a platform to literally launch you into a rolling version
 of this movement. Make sure you are solid with this exercise before progressing to
 rolling hop turns.
 Performing this drill repeatedly on grass is also a great exercise for developing
 strength and power in the legs. This can be done as an interval exercise on its own.
-50
-HOP TURNS
-150
-3
-15
-150
-51
-TERRAIN (HOP TURNS)
+
+### Hop turns
+
+**Terrain**
+
+![Hop turns](/assets/images/skate-hop-turns.jpg){: .align-right}
 A road or trail free of traffic or other paved surface with a slight to moderate
 slope. Also ensure that cone placement does not create a hazard for anyone.
-OBJECTIVE
+
+**Objective**
+
 To perform a turn transition in the air, leaving the ground at the bottom of a turn and
 landing at the top of the new turn.
-IF DONE CORRECTLY
-►► Both feet remain parallel and leave the ground at the same time
-►► Upper body remains quiet
-►► Shoulders are level
-►► Feet land in a position that immediately starts the next turn
-COMMON CHALLENGES
-►► Losing balance and control while jumping or landing
-►► Body is too rigid to absorb the landing
-►► Hops are too small or too lateral to effectively land in the next turn
-►► Skater cannot maintain the tempo of the set course
-SUMMARY
+
+**If done correctly**
+
+* Both feet remain parallel and leave the ground at the same time
+* Upper body remains quiet
+* Shoulders are level
+* Feet land in a position that immediately starts the next turn
+
+**Common challenges**
+
+* Losing balance and control while jumping or landing
+* Body is too rigid to absorb the landing
+* Hops are too small or too lateral to effectively land in the next turn
+* Skater cannot maintain the tempo of the set course
+
+**Summary**
+
 Have fun with this drill and try to be as fluid and dynamic as possible. This drill
 combines many of the skills learned in previous videos into one. In order to perform
 correctly, you must leave and land on the ground in a strong balanced position, and
 parallel stance. You must then use knees and ankles to immediately carve a quick
 turn and again be in a strong position to leave the ground again.
+
 Starting out on a flat surface that you skate into with momentum is a good way to get
 familiar with the motion before trying on a slope. Eventually, finding the right slope
 is a key factor.
+
 This is a challenging and higher impact exercise. Unlike other skills in the series, this
 skill does not need to be mastered in order to progress to the next exercises.
-52
-SINGLE LEG TURNS
-150
-150
-150
-3 3
-53
-TERRAIN (SINGLE LEG TURNS)
+
+### Single leg turns
+
+**Terrain**
+
+![Single leg turns](/assets/images/skate-single-leg.jpg){: .align-right}
 Begin on a smooth, flat, paved surface. A very slight slope may be helpful
 to fully develop this skill. Without any pitch it can be harder to create and
 maintain momentum throughout single leg turns.
-OBJECTIVE
+
+**Objective**
+
 To develop the balance, coordination, and agility necessary for inside and outside edge
 control on one foot. This is done while performing short radius turns in a straight line.
-IF DONE CORRECTLY
-►► Skater maintains deep ankle and knee flexion throughout the turn
-►► The turning skate pitches laterally from pinky toe edge (outside) to big toe edge
+
+**If done correctly**
+
+* Skater maintains deep ankle and knee flexion throughout the turn
+* The turning skate pitches laterally from pinky toe edge (outside) to big toe edge
 (inside) equally through each turn
-►► The outside edge turn has the same turn shape as the inside edge turn
-►► Cones are placed far enough apart to allow adequate space for turns
-COMMON CHALLENGES
-►► Momentum is lost during the turns
-►► Course is set on too steep a decline – too much momentum
-►► Body is not centered and stacked over the wheels – especially on pinky toe
+* The outside edge turn has the same turn shape as the inside edge turn
+* Cones are placed far enough apart to allow adequate space for turns
+
+**Common challenges**
+
+* Momentum is lost during the turns
+* Course is set on too steep a decline – too much momentum
+* Body is not centered and stacked over the wheels – especially on pinky toe
 (outside) edge turns
-►► Overuse of upper body motions to maintain balance
-SUMMARY
+* Overuse of upper body motions to maintain balance
+
+**Summary**
+
 Similar to one leg ski turns, the challenge of this drill is typically in making the pinky toe
 (outside) edge turn. Making the outside edge turn requires you to be flexed, stacked over
 your turning foot, and to drive your knee into the direction of the turn. This exercise on
 skates builds the skills and body position necessary to carve on your uphill ski.
+
 If you’re having challenges with this drill make sure your skates are securely
 tightened. Loose fitting skates are almost impossible to balance on. This is also a drill
 that is easier to perform if you are using molded shell vs soft upper skates due to the
 support they provide.
-54
-OUTSIDE LEG TURNS
-150 
-25
-55
-TERRAIN (OUTSIDE LEG TURNS)
+
+### Outside leg turns
+
+**Terrain**
+
+![Outside leg turns](/assets/images/skate-outside-leg.jpg){: .align-right}
 A wide road free of traffic or other paved surface with a mild to moderate slope.
 Make sure you have enough space to set the cones or markers according to the
 instructions in the video. Also ensure that cone placement does not create a
 hazard for anyone.
-OBJECTIVE
+
+**Objective**
+
 To develop the ability to turn and balance completely on the outside / downhill skate
 while performing medium to long radius turns.
-IF DONE CORRECTLY
-►► Skater maintains deep ankle and knee flexion throughout the turn
-►► Even turn shape with both left and right turns
-►► Each turn is complete, finishing across the fall line
-►► Upper body remains facing down the fall line throughout the turns
-COMMON CHALLENGES
-►► Skater cannot keep uphill leg off the ground
-►► Overuse of upper body motions to maintain balance
-►► Skater is much stronger on one turn than the other
-►► Course is set on too steep a decline – too much momentum
-SUMMARY
+
+**If done correctly**
+
+* Skater maintains deep ankle and knee flexion throughout the turn
+* Even turn shape with both left and right turns
+* Each turn is complete, finishing across the fall line
+* Upper body remains facing down the fall line throughout the turns
+
+**Common challenges**
+
+* Skater cannot keep uphill leg off the ground
+* Overuse of upper body motions to maintain balance
+* Skater is much stronger on one turn than the other
+* Course is set on too steep a decline – too much momentum
+
+**Summary**
+
 This drill is one of the most challenging in the Skate to Ski Training System. It
 requires all the balance, strength, and coordination developed in previous exercises.
 Be patient with this drill. If you are struggling with this drill, review the Stomp Turns
 drill in Phase 3. It can also be helpful when first attempting this skill to keep the
 raised skate with the front wheel pointing slightly down.
+
 Once you’ve mastered Outside Leg Turns, challenge yourself with increasing degrees
 of slope. You can also perform the Hourglass Turns and Lane Changes drills using
 only Outside Leg Turns.
-56
-PHASE 4 CHECKLIST
-Generating momentum using power carve parallel turns
-Remaining balanced and landing softly with standing hop turns
-Performing rolling hop turns within a designated course
-Maintaining a balanced body position during rolling hop turns
-Turning consistently on one leg in both directions
-Performing six medium to long radius turns on downhill skate
-Maintaining quiet upper body throughout all drills in this Phase
-MAKE SURE YOU ARE SOLID ON THE FOLLOWING:
-57
-NEXT STEPS
-CONGRATULATIONS! YOU’VE COMPLETED THE PROGRAM!
+
+### Phase 4 checklist
+
+**Make sure you are solid on the following:**
+
+*Generating momentum using power carve parallel turns
+*Remaining balanced and landing softly with standing hop turns
+*Performing rolling hop turns within a designated course
+*Maintaining a balanced body position during rolling hop turns
+*Turning consistently on one leg in both directions
+*Performing six medium to long radius turns on downhill skate
+*Maintaining quiet upper body throughout all drills in this Phase
+
+## Next steps
+
+**Congratulations! you’ve completed the program!**
+
 So now what? Below are some suggestions on next steps to help you maintain and
 even progress beyond where you are now.
-►► Go back and cycle through the following drills, attempting on steeper terrain as
+
+Go back and cycle through the following drills, attempting on steeper terrain as
 your ability improves.
-►► 2-03 Line Jumpers
-►► 3-01 Uphill Hand Down the Hill
-►► 3-02 Hourglass Turns
-►► 3-03 Lane Changes
-►► 3-04 Traversing
-►► 3-05 Stomp Turns
-►► 4-03 Hop Turns
-►► 4-04 Single Skate Turns
-►► 4-05 Outside Skate Turns
-►► Create a weekly routine that combines Skate to Ski training 2 or 3 days a week
+
+* 2-03 Line Jumpers
+* 3-01 Uphill Hand Down the Hill
+* 3-02 Hourglass Turns
+* 3-03 Lane Changes
+* 3-04 Traversing
+* 3-05 Stomp Turns
+* 4-03 Hop Turns
+* 4-04 Single Skate Turns
+* 4-05 Outside Skate Turns
+* Create a weekly routine that combines Skate to Ski training 2 or 3 days a week
 with other types of exercise
-►► Once ski season arrives, try practicing the drills above on skis
-OTHER IDEAS
-►► Join or start a Rollerblade® 10k challenge in your area
-►► Train for and complete a half or full inline marathon
-►► Join or create a local social skate
-►► Become a skate instructor
-►► Explore other skate disciplines such as Freestyle Slalom, Park and Aggressive
+* Once ski season arrives, try practicing the drills above on skis
+
+**Other ideas**
+
+* Join or start a Rollerblade® 10k challenge in your area
+* Train for and complete a half or full inline marathon
+* Join or create a local social skate
+* Become a skate instructor
+* Explore other skate disciplines such as Freestyle Slalom, Park and Aggressive
 Street skating, Racing
-►► Follow Rolllerblade on
-►► Check out the Experience section of rollerblade.com
-58
-INLINE SKATES 101
-3WD VS 4WD
-MOLDED VS SOFT
-HIGHER SUPPORT,
-MORE RESPONSE, VERSATILITY
-BETTER BREATHABILITY,
-LIGHTER ATHLETIC SHOE STYLE
-MANEUVERABILITY, HIGHER
-SPEED LIGHTER WEIGHT
-BALANCE & STABILITY QUICKER
-ACCELERATION EASIER BRAKING
-CUFF
-BOOT SHELL
-LINER
-FRAME
-BUCKLE
-BRAKE HOUSING
-45° POWER STRAP
-BRAKE
-AXLE
-WHEEL (CORE) WHEEL (URETHANE) BEARING AND BEARING
-SPACER X2 PER WHEEL
-59
-SKATE MAINTENANCE
-WHEEL ROTATION
-https://youtu.be/d8S8kd-o9sg
-BEARING REPLACEMENT
-https://youtu.be/J88NFE9y-a8
-ADJUSTING EXPANDABLE KIDS INLINE SKATES
-https://youtu.be/HegGvq_ExDA
-BEARING MAINTENANCE
-https://youtu.be/Cl5J9L6SHq4
-BRAKE PAD REPLACEMENT
-https://youtu.be/85jIT2Cvn5A
-ADJUST & TIGHTEN FRAME
-https://youtu.be/X_4crL4XDf0
-GENERAL INSPECTION
-https://youtu.be/n-FPx5TQh3Q
-60
-RULES OF THE ROAD
-►► Before using your skates, know and understand the skating and traffic regulations
+* Follow Rolllerblade on
+* Check out the Experience section of rollerblade.com
+
+## Rules of the road
+
+* Before using your skates, know and understand the skating and traffic regulations
 of your city, state or country. In some places it is forbidden to skate on the public
 roads.
-►► Always wear protective gear (helmet, wrist-guards, elbow and kneepads).
-►► Learn inline skating basics; such as braking and turning before going out on the
+* Always wear protective gear (helmet, wrist-guards, elbow and kneepads).
+* Learn inline skating basics; such as braking and turning before going out on the
 open path or road.
-►► Stay alert. Always skate under control.
-►► Do not use headphones that limit your ability to hear your surroundings while
+* Stay alert. Always skate under control.
+* Do not use headphones that limit your ability to hear your surroundings while
 skating.
-►► Stop skating and inspect your skates immediately if you hear clicking or other
+* Stop skating and inspect your skates immediately if you hear clicking or other
 unusual sounds coming from your skates while skating. This could be an
 indication of a loose bolt or other damage.
-►► Always skate with the Allen key provided with your skates in case it is needed to
+* Always skate with the Allen key provided with your skates in case it is needed to
 tighten bolts. Carry in a place on your body that will not cause injury if you fall.
-►► Avoid debris, rocks, oil, sand, water and uneven or broken pavement.
-►► Avoid areas with heavy traffic.
-►► Never grab or hold on to moving motorized vehicles.
-►► Always be aware of your speed while skating, especially while going down hill.
+* Avoid debris, rocks, oil, sand, water and uneven or broken pavement.
+* Avoid areas with heavy traffic.
+* Never grab or hold on to moving motorized vehicles.
+* Always be aware of your speed while skating, especially while going down hill.
 Skating down hill makes slowing and stopping much more difficult.
-61
-NOTES:
-62
-OUR REASON FOR BEING.
-TO INSPIRE
-PEOPLE
-TO MOVE FREELY
-ON WHEELS
-OUR BRAND MISSION
-63
-ROLLERBLADE®
-Rollerblade® invented the modern inline skate back in 1980, and we’ve been the
-worldwide leader ever since. At our roots, inline skating was created as a way to
-cross train for other sports. This Skate to Ski Training System is an evolution of the
-revolution we started almost 40 years ago.
-We hope you enjoy this program. We’re confident that no matter how far along you
-get in the program, you will see real benefits on the slopes next winter.
-Lastly, we hope you develop a new and exciting way to experience the world around
-you as you glide along the flats, crank up the hills, and carve up the pavement on the
-way down! There’s nothing else like it.
-Have fun out there!
-64
-THE SKATE TO SKI TRAINING SYSTEM
-DOUG LEWIS - US OLYMPIAN
-“The Rollerblade® Skate to Ski program is the most ski
-specific off-snow program you can do as a skier. Not only
-does it train ski specific movements and patterns that will
-translate into better skiing when you return to snow, but
-it will increase agility, strength, mobility, and work your
-cardiovascular system as well. Plus it’s FUN!”
-KATIE RYAN - US SKI TEAM
-“The adrenaline rush and freedom I get from skiing in the
-winter I now get from inline skating during the warmer
-months. Skating allows me to be outside with my friends
-and get a great cardio workout.”
-BRENNAN RUBIE - US SKI TEAM
-“Whether I’m ripping around the neighborhood, or
-preparing for the next ski season, inline skating is a
-versatile way to have some fun, and switch it up.”
-THIS EXCITING NEW PROGRAM HAS BEEN DEVELOPED
-BY ROLLERBLADE® IN PARTNERSHIP WITH ELITE SKIERS
-AROUND THE WORLD.
+
+## Reference
+
+This is my convertion of the original course "Skate to Ski" from Rollerblade.
+I you interested, watch [youtube videos](https://www.youtube.com/playlist?list=PLG0epWKWDn1Yz6S39KjI1-xbtO8yIKnhO) or visit [Rollerblade site](https://www.rollerblade.com/skate-to-ski/).
+
+You can [download](https://www.rollerblade.com/themes/rollerblade19_new/pdf/18_RB_Skate_To_Ski_Pamphlet_Print_v2.pdf) all course in one pdf.
