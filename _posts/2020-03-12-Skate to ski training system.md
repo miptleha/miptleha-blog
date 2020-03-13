@@ -8,8 +8,6 @@ tags:
   - Skate
 ---
 
-## Welcome
-
 Inline skating has been a great way to cross-train for skiing for years. Many of us here
 at Rollerblade® are also lifelong skiers. We challenged ourselves to take what has
 always been an informal way for us to maintain ski-ready fitness, and transform it into
@@ -1084,6 +1082,6 @@ Skating down hill makes slowing and stopping much more difficult.
 ## Reference
 
 This is my convertion of the original course "Skate to Ski" from Rollerblade.
-I you interested, watch [youtube videos](https://www.youtube.com/playlist?list=PLG0epWKWDn1Yz6S39KjI1-xbtO8yIKnhO) or visit [Rollerblade site](https://www.rollerblade.com/skate-to-ski/).
+If you interested in course, watch [videos](https://www.youtube.com/playlist?list=PLG0epWKWDn1Yz6S39KjI1-xbtO8yIKnhO) or visit [Rollerblade site](https://www.rollerblade.com/skate-to-ski/).
 
 You can [download](https://www.rollerblade.com/themes/rollerblade19_new/pdf/18_RB_Skate_To_Ski_Pamphlet_Print_v2.pdf) all course in one pdf.

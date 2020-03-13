@@ -25,8 +25,7 @@ ask such questions cannot be called
 "experienced Russian programmers."
 These people do not shine even
 in South Africa. After all, the main feature with which you
-you come across in America - not the subtleties of hi-tech,
-and fat women.
+you come across in America - not the subtleties of hi-tech but fat women.
 
 But so be it, come on in order. That is not
 from the bad, and from the worst. With option
@@ -47,13 +46,13 @@ Windows without bugs. More often the programmer’s wife is
 it is something from a completely different hemisphere of the brain.
 Relatively speaking, the artist. Maybe in
 Russia you attached it to some
-okolokompovoy job like web-design. AND
+IT job like web-design. And
 here you are, cool walker, coming to the states on
 twenty thousand a year. You buy right there
-poyuzanny "fordik" and cozy
+used Ford and cozy
 condominium overlooking the parking lot. And write out
 from Russia your mouse-mouse, which is at home
-It was always quieter than the cooler and lower than the driver.
+It was always quieter than the cooler and lower than the computer driver.
 
 Six months later, it turns out that the mouse
 better than you drives a car and knows everything
@@ -66,7 +65,7 @@ Fantasy! "It would not be so disgusting).
 Moreover, while you crushed the loaves there and cooked
 your mittens, your quiet woman has already made friends with
 several other experienced
-programmers. And found that their red "jaguars"
+programmers. And found that their red Jaguars
 steer cooler than your Ford Goat
 used colors. Add fuel to the fire
 Internet: if you live in Pennsylvania, she
@@ -80,7 +79,7 @@ Russian woman in the south - like a herring in
 in the pan.
 
 Now you chuckle, but keep in mind: after
-of how your wife sends you for href, you
+of how your wife sends you to hell, you
 direct road to homosexuals. Because yours
 dejected loneliness will quickly notice -
 Only not women, but men. And when in
@@ -153,9 +152,9 @@ a Russian woman would only have caused a giggle.
 If you follow an American down the street - she
 you are easily planted for five years. If you are
 pinched her ass - you shine even more.
-The first is called "sexual harassment,"
+The first is called "sexual harassment",
 more specifically, stalking. And the second - "sex
-assolt ", more specifically" anal penetration ".
+assolt", more specifically "anal penetration".
 Remember the terms, useful in a conversation with
 lawyers.
 
@@ -164,8 +163,7 @@ in cinema they do it in elevators and in
 pools, and all that. The problem is that
 actually "all that way" including
 drugs and racindrols
-past, parental generation. By
-Hegelian-Trugenevsky principle is
+past, parental generation. This
 led to total depletion,
 generational conservatism and generally
 present. You probably know that if
@@ -186,7 +184,7 @@ And that’s where you’ll burn like
 kettle on love letters with trojans.
 Understand their smile is just instinctive
 grimace, how are you - jerking your hands at the thought
-about clave. If you want to check how they are on
+about keyboard. If you want to check how they are on
 actually refer to strangers - just
 try to "catch a car", how are you
 did with us. Immediately make sure that in addition to
@@ -194,7 +192,7 @@ taxi drivers, everyone else is looking at you
 like a serial killer. Although they smile.
 
 However, from the stereotype of "strange
-foreigner "can also benefit,
+foreigner" can also benefit,
 if you don’t try to immediately score a hundred counts in
 one port. There are so many American women
 who like helpless
@@ -212,8 +210,8 @@ smile of a typical mentally disabled person (many
 drank it). At this crucial moment past
 was a familiar German journalist who
 listlessly, but loudly said: "Ah, again this
-Russian boxer-killer! "All boyfriends
-how Kaspersky blew it away. Maiden, however, too
+Russian boxer-killer"! All boyfriends
+how antivirus blew it away. Maiden, however, too
 merged somewhere - but after all, no one’s monitor
 cleaned up! A couple more of these patches, and here you are
 already
@@ -224,15 +222,15 @@ So, if you didn’t hide behind
 fellow countrymen and their wives then on
 second year you can hack your main
 Soviet stereotype - that "in
-America is all stupid. "
+America is all stupid".
 
 Of course, I could immediately load you:
 they say, if you are interested in sharp - go
 immediately to Chile. The problem is that among
 sharp you may not survive. I heard that about
-Chile say? - the total arshin cannot be measured! A
+Chile say? - the total foot cannot be measured! A
 how many more such immeasurable cultures? Yes at
-you just arshin fall off, man!
+you just foot fall off, man!
 
 Another thing is the States. It's like a buffet:
 just a little, everything can be tried.
@@ -248,9 +246,9 @@ assimilate fake politeness of the staff
 culture - but at the same time, just like you,
 aware of this fakeness. Immediately arise and
 great conversation topics: "All
-Americans are infantile dumbasses, "How
-go to the library? "," Will you be with us
-Kolyma ... "and so on.
+Americans are infantile dumbasses", "How
+go to the library?", "Will you be with us
+Siberia..." and so on.
 
 By the way, it will be very cool if you immediately
 hit a woman with cultural troubles
@@ -302,10 +300,9 @@ pun, woman.
 As for languages ​​- they, in general, need to know
 two. As an assembler, of course,
 need an English bar. At
-American women, by the way, have their own analogue of the language
-Elochki-Cannibals. It consists of only three
-words: "boyz" (it's you, buddy!), "bir"
-(this is your bottle) and "basrum" (there they are
+American women, by the way, have their own analogue of the cannibals language. It consists of only three
+words: "boyz" (it's you, buddy!), "beer"
+(this is your bottle) and "bathroom" (there they are
 make a "scrum"). Add a row here
 interjections - "oops, wow, ji, cool, sew, wow ..."
 - and you get a perfectly acceptable BIOS.
@@ -316,11 +313,11 @@ system programmer. "It includes
 a series of longer words ("absolute",
 "definitli", etc.) and a number
 corresponding flaring like
-famous "alt-control-cases." But
+famous "alt-control-cases". But
 the main thing is the look. Direct, honest look
 straight into the eyes of the interlocutor, with a good broad
 smile and simultaneous utterance
-magic "fak yu" (this is the very sound
+magic "f*ck you" (this is the very sound
 which makes beer when opened). When
 you even learn to pronounce it mentally
 so that the interlocutors hear your
@@ -343,17 +340,17 @@ your boss will go there. And this boring
 undernourished Indian will probably ask
 you, how work is progressing. Clear he
 does it only out of politeness. He is
-although Indian, but also a normal man. AND
+although indian, but also a normal man. And
 also saw all this work in a coffin and in white
-Folders. And now he’s thinking not about you at all,
-but about the red "jaguar" and about some daughter
+folders. And now he’s thinking not about you at all,
+but about the red Jaguar and about some daughter
 Brahmin from the board of directors. Therefore everything
 what you need is to fill in two minutes
 joint elevator trip a few words on
 the lofty language mentioned above.
 
 And then you go out on your floor,
-you collect wards of the Chinese with laptops,
+you collect wards of the chinese with laptops,
 look at them with kind eyes and
 telepathically share with them
 happiness and joy (magic sound
@@ -362,7 +359,7 @@ opening beer, remember?)
 That's all you need to know about the intricacies
 programmer career in the USA. Oh yes almost
 forgot the most important thing: beer, about which I
-said, called "Sierra Nevada." On the
+said, called "Sierra Nevada". On the
 lover, of course - but on the other hand, hardly
 whether in the States you will find better. And about work
 a programmer in the Czech Republic and Germany, I’m in
