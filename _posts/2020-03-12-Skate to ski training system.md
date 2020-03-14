@@ -1115,7 +1115,7 @@ Skating down hill makes slowing and stopping much more difficult.
 
 ## Reference
 
-This is my convertion of the original course "Skate to Ski" from Rollerblade.
+This is my version of the original course "Skate to Ski" from Rollerblade.
 If you interested in course, watch [videos](https://www.youtube.com/playlist?list=PLG0epWKWDn1Yz6S39KjI1-xbtO8yIKnhO) or visit [Rollerblade site](https://www.rollerblade.com/skate-to-ski/).
 
 You can [download](https://www.rollerblade.com/themes/rollerblade19_new/pdf/18_RB_Skate_To_Ski_Pamphlet_Print_v2.pdf) all course in one pdf.
