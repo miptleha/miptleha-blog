@@ -1,5 +1,5 @@
 ﻿---
-title: "American emigrant in Canada - diary"
+title: "Canada's immigrant diary"
 date: 2020-03-11T17:00:00-04:00
 categories:
   - blog

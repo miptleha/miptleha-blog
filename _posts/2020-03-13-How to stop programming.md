@@ -304,8 +304,7 @@ American women, by the way, have their own analogue of the cannibals language. I
 words: "boyz" (it's you, buddy!), "beer"
 (this is your bottle) and "bathroom" (there they are
 make a "scrum"). Add a row here
-interjections - "oops, wow, ji, cool, sew, wow ..."
-- and you get a perfectly acceptable BIOS.
+interjections - "oops, wow, ji, cool, sew, wow ..." - and you get a perfectly acceptable BIOS.
 
 Then move on to a higher language
 level. This is the so-called "language
@@ -366,4 +365,4 @@ a programmer in the Czech Republic and Germany, I’m in
 I'll tell you another time.
 
 
-**2001, Percy Shelley
+**2001, Percy Shelley**

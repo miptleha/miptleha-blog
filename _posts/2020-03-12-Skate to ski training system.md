@@ -55,7 +55,7 @@ and get a great cardio workout.”
 preparing for the next ski season, inline skating is a
 versatile way to have some fun, and switch it up.”
 
-### Things to know before you roll
+## Before you roll
 
 **New to skating?**
 
