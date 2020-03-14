@@ -166,9 +166,11 @@ got the basics of movement and stopping down, you’re ready for Phase 1. In Pha
 
 ### A-Frame turn
 
+{% include video id="gSBdlaPjcT0" provider="youtube" %}
+
 **Terrain**
 
-![A-Frame](/assets/images/skate-a-frame.jpg){: .align-right}
+<!--![A-Frame](/assets/images/skate-a-frame.jpg){: .align-right}-->
 Begin on a smooth, flat, paved surface with no slope.
 
 **Objective**
@@ -206,9 +208,11 @@ Experiment with a wider or a narrower stance to see how this affects turn shape.
 
 ### Braking on a hill
 
+{% include video id="0N5HYDZ2W2U" provider="youtube" %}
+
 **Terrain**
 
-![Braking](/assets/images/skate-braking.jpg){: .align-right}
+<!--![Braking](/assets/images/skate-braking.jpg){: .align-right}-->
 Choose a very slight slope to test and improve your ability to use the brake
 effectively. Braking down a hill requires significantly more skill than braking
 on a level surface.
@@ -245,9 +249,11 @@ slope, the longer distance you will need to stop.
 
 ### Striding for power
 
+{% include video id="2Rut-H6m0jE" provider="youtube" %}
+
 **Terrain**
 
-![Striding](/assets/images/skate-striding.jpg){: .align-right}
+<!--![Striding](/assets/images/skate-striding.jpg){: .align-right}-->
 Begin on a smooth, flat, paved surface with no slope. Ideally you should pick
 a route where you are able to skate in one direction for at least 5-10 minutes.
 
@@ -288,9 +294,11 @@ allow for better power transfer and balance.
 
 ### Parallel turns
 
+{% include video id="BGKamSmx9XQ" provider="youtube" %}
+
 **Terrain**
 
-![Parallel turns](/assets/images/skate-parallel-turns.jpg){: .align-right}
+<!--![Parallel turns](/assets/images/skate-parallel-turns.jpg){: .align-right}-->
 Begin on a smooth, flat, paved surface. A very slight slope may be helpful
 to fully develop this skill. Without any pitch it can be harder to create and
 maintain momentum throughout linked parallel turns.
@@ -326,6 +334,8 @@ continuous slight slope that allows you to maintain momentum as you link one tur
 the next.
 
 ### Free skate
+
+{% include video id="C4z4Bav-zMI" provider="youtube" %}
 
 **Terrain**
 
