@@ -9,15 +9,6 @@ tags:
   - Skate
 ---
 
-Inline skating has been a great way to cross-train for skiing for years. Many of us here
-at Rollerblade® are also lifelong skiers. We challenged ourselves to take what has
-always been an informal way for us to maintain ski-ready fitness, and transform it into
-a training program that truly mirrors the movements and skills used in skiing.
-
-We teamed up with our friends at the Professional Ski Instructors of America® and U.S.
-Ski and Snowboard to build out a program based on proven methods of training. The
-result is a series of videos and this companion guidebook.
-
 The program is designed as a progression of Phases. In Phase 1, you’ll cover basic skills
 that ensure you’re ready to progress. Phases 2-4 get into true cross-training for skiing.
 Many of these drills are derived from proven methods of ski training drills used by the
@@ -26,6 +17,8 @@ PSIA and the U.S. Ski Team.
 We hope you’ll find this program as fun to try out as it was for us to build. And if you’re
 able to progress through the entire program, you will absolutely be in the best skiready
 shape possible for next winter.
+
+{% include video id="zO49l0iiaGU" provider="youtube" %}
 
 **This exciting new program has been developed
 by rollerblade® in partnership with elite skiers
