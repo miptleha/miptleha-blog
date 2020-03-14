@@ -1,5 +1,6 @@
 ---
 toc: true
+toc_sticky: true
 title: "Skate to ski training system"
 date: 2020-03-12T16:00:00-04:00
 categories:
