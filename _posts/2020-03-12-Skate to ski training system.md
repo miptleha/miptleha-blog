@@ -24,9 +24,9 @@ shape possible for next winter.
 by rollerblade® in partnership with elite skiers
 around the world.**
 
-![DOUG LEWIS](/assets/images/skate-doug.jpg){: .align-right}
 **DOUG LEWIS - US OLYMPIAN**
 
+![DOUG LEWIS](/assets/images/skate-doug.jpg){: .align-right}
 “The Rollerblade® Skate to Ski program is the most ski
 specific off-snow program you can do as a skier. Not only
 does it train ski specific movements and patterns that will
@@ -34,17 +34,17 @@ translate into better skiing when you return to snow, but
 it will increase agility, strength, mobility, and work your
 cardiovascular system as well. Plus it’s FUN!”
 
-![KATIE RYAN](/assets/images/skate-katie.jpg){: .align-right}
 **KATIE RYAN - US SKI TEAM**
 
+![KATIE RYAN](/assets/images/skate-katie.jpg){: .align-right}
 “The adrenaline rush and freedom I get from skiing in the
 winter I now get from inline skating during the warmer
 months. Skating allows me to be outside with my friends
 and get a great cardio workout.”
 
-![BRENNAN RUBIE](/assets/images/skate-brennan.jpg){: .align-right}
 **BRENNAN RUBIE - US SKI TEAM**
 
+![BRENNAN RUBIE](/assets/images/skate-brennan.jpg){: .align-right}
 “Whether I’m ripping around the neighborhood, or
 preparing for the next ski season, inline skating is a
 versatile way to have some fun, and switch it up.”
@@ -394,9 +394,11 @@ more ski-specific movements.
 
 ### Balance & agility
 
+{% include video id="nTGEIFoB0Rk" provider="youtube" %}
+
 **Terrain**
 
-![Balance](/assets/images/skate-balance.jpg){: .align-right}
+<!--![Balance](/assets/images/skate-balance.jpg){: .align-right}-->
 Begin on a smooth, flat, non-rolling surface such as grass or carpet. Progress
 to a smooth, flat, paved surface with no slope.
 
@@ -436,9 +438,11 @@ glide forward (sometimes called swizzles)
 
 ### Angulation turns
 
+{% include video id="7plZgET8Ktw" provider="youtube" %}
+
 **Terrain**
 
-![Angulation turns](/assets/images/skate-angulation-turns.jpg){: .align-right}
+<!--![Angulation turns](/assets/images/skate-angulation-turns.jpg){: .align-right}-->
 Find a low to moderate pitch that allows you to maintain momentum while
 making consistent, medium radius turns.
 
@@ -476,9 +480,11 @@ cause a loss of control.
 
 ### Line jumps
 
+{% include video id="SnUvDqu2QUc" provider="youtube" %}
+
 **Terrain**
 
-![Line jumps](/assets/images/skate-line-jumps.jpg){: .align-right}
+<!--![Line jumps](/assets/images/skate-line-jumps.jpg){: .align-right}-->
 Ideally a flat, empty parking lot with parking space lines. If no painted lines
 are available, you can place cones an even distance apart.
 
@@ -510,9 +516,11 @@ mastered line jumps on flat terrain, try doing them on a slight to moderate slop
 
 ### T-stopping
 
+{% include video id="GHidXyjqoCA" provider="youtube" %}
+
 **Terrain**
 
-![T-stopping](/assets/images/skate-t-stopping.jpg){: .align-right}
+<!--![T-stopping](/assets/images/skate-t-stopping.jpg){: .align-right}-->
 Begin on a smooth, flat, paved surface. As you become stronger with the
 T-Stop, progress to slightly sloped surfaces.
 
@@ -554,9 +562,11 @@ progressively add pressure to the dragging foot while tracking straight forward.
 
 ### Skating uphill
 
+{% include video id="sZ7M2FnDcCY" provider="youtube" %}
+
 **Terrain**
 
-![Skating uphill](/assets/images/skate-uphill.jpg){: .align-right}
+<!--![Skating uphill](/assets/images/skate-uphill.jpg){: .align-right}-->
 The most ideal location for learning this skill is a loop with a short, steep
 incline going up, that leads to a more gradual slope going down to practice
 other skills.
@@ -610,9 +620,11 @@ look familiar.
 
 ### Uphill hand down the hill
 
+{% include video id="rI2f15ZOvbQ" provider="youtube" %}
+
 **Terrain**
 
-![Uphill hand](/assets/images/skate-hand.jpg){: .align-right}
+<!--![Uphill hand](/assets/images/skate-hand.jpg){: .align-right}-->
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to travel across the fall line for a few
 seconds.
@@ -646,9 +658,11 @@ one turn to the next down a hill.
 
 ### Hourglass turns
 
+{% include video id="1MkGPjrmWF4" provider="youtube" %}
+
 **Terrain**
 
-![Uphill hand](/assets/images/skate-hourglass.jpg){: .align-right}
+<!--![Uphill hand](/assets/images/skate-hourglass.jpg){: .align-right}-->
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to set the cones or markers
 according to the instructions in the video. Also ensure that cone placement
@@ -684,9 +698,11 @@ to control your speed through turn shape.
 
 ### Lane changes
 
+{% include video id="CAj1W2TCB6o" provider="youtube" %}
+
 **Terrain**
 
-![Lane changes](/assets/images/skate-lane-changes.jpg){: .align-right}
+<!--![Lane changes](/assets/images/skate-lane-changes.jpg){: .align-right}-->
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to set the cones or markers
 according to the instructions in the video. Also ensure that cone placement
@@ -724,9 +740,11 @@ improving agility and control.
 
 ### Traversing
 
+{% include video id="aNrIHje1DNw" provider="youtube" %}
+
 **Terrain**
 
-![Traversing](/assets/images/skate-traversing.jpg){: .align-right}
+<!--![Traversing](/assets/images/skate-traversing.jpg){: .align-right}-->
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to perform a long traverse. You can
 use your brake or t-stopping skills at the end of each traverse to slow down, or
@@ -763,9 +781,11 @@ navigate.
 
 ### Stomp turns
 
+{% include video id="KUFU6bgUyWk" provider="youtube" %}
+
 **Terrain**
 
-![Stomp turns](/assets/images/skate-stomp-turns.jpg){: .align-right}
+<!--![Stomp turns](/assets/images/skate-stomp-turns.jpg){: .align-right}-->
 A wide road free of traffic or other paved surface with a mild to moderate
 slope. Make sure you have enough space to set the cones or markers
 according to the instructions in the video. Also ensure that cone placement
@@ -822,9 +842,11 @@ dividends the next time you hit the slopes!
 
 ### Power carve
 
+{% include video id="7vmVFz7h0LE" provider="youtube" %}
+
 **Terrain**
 
-![Power carve](/assets/images/skate-power-carve.jpg){: .align-right}
+<!--![Power carve](/assets/images/skate-power-carve.jpg){: .align-right}-->
 Begin on a smooth, flat, paved surface with no slope. Progress to slightly
 uphill terrain.
 
@@ -857,9 +879,11 @@ to see if you can maintain momentum.
 
 ### Hop turn warm-up
 
+{% include video id="CpBGPohysh0" provider="youtube" %}
+
 **Terrain**
 
-![Hop turn warm-up](/assets/images/skate-hop-turn-warm-up.jpg){: .align-right}
+<!--![Hop turn warm-up](/assets/images/skate-hop-turn-warm-up.jpg){: .align-right}-->
 Begin on a flat to slightly sloped grassy area, progressing to a flat to slightly
 sloped paved area.
 
@@ -892,9 +916,11 @@ strength and power in the legs. This can be done as an interval exercise on its 
 
 ### Hop turns
 
+{% include video id="lQma44nf7hw" provider="youtube" %}
+
 **Terrain**
 
-![Hop turns](/assets/images/skate-hop-turns.jpg){: .align-right}
+<!--![Hop turns](/assets/images/skate-hop-turns.jpg){: .align-right}-->
 A road or trail free of traffic or other paved surface with a slight to moderate
 slope. Also ensure that cone placement does not create a hazard for anyone.
 
@@ -934,9 +960,11 @@ skill does not need to be mastered in order to progress to the next exercises.
 
 ### Single leg turns
 
+{% include video id="3X0Us2cJHzs" provider="youtube" %}
+
 **Terrain**
 
-![Single leg turns](/assets/images/skate-single-leg.jpg){: .align-right}
+<!--![Single leg turns](/assets/images/skate-single-leg.jpg){: .align-right}-->
 Begin on a smooth, flat, paved surface. A very slight slope may be helpful
 to fully develop this skill. Without any pitch it can be harder to create and
 maintain momentum throughout single leg turns.
@@ -976,9 +1004,11 @@ support they provide.
 
 ### Outside leg turns
 
+{% include video id="TtZwpz_SCN4" provider="youtube" %}
+
 **Terrain**
 
-![Outside leg turns](/assets/images/skate-outside-leg.jpg){: .align-right}
+<!--![Outside leg turns](/assets/images/skate-outside-leg.jpg){: .align-right}-->
 A wide road free of traffic or other paved surface with a mild to moderate slope.
 Make sure you have enough space to set the cones or markers according to the
 instructions in the video. Also ensure that cone placement does not create a
