@@ -22,7 +22,7 @@ California town?
 
 That's what I tell you, man. People who
 ask such questions cannot be called
-"experienced Russian programmers."
+"experienced Russian programmers".
 These people do not shine even
 in South Africa. After all, the main feature with which you
 you come across in America - not the subtleties of hi-tech but fat women.
@@ -47,7 +47,7 @@ it is something from a completely different hemisphere of the brain.
 Relatively speaking, the artist. Maybe in
 Russia you attached it to some
 IT job like web-design. And
-here you are, cool walker, coming to the states on
+here you are, cool Walker, coming to the states on
 twenty thousand a year. You buy right there
 used Ford and cozy
 condominium overlooking the parking lot. And write out
@@ -60,8 +60,8 @@ surrounding bars. And of course, already speaks English
 without an accent that can never be achieved
 not a single Russian peasant - but no for him
 nothing worse than a Russian wife screaming
-"Yes!" during orgasm (even Das East
-Fantasy! "It would not be so disgusting).
+"Yes!" during orgasm (even "Das Ist
+Fantastich!" It would not be so disgusting).
 Moreover, while you crushed the loaves there and cooked
 your mittens, your quiet woman has already made friends with
 several other experienced
@@ -75,14 +75,14 @@ if you are a funny guy from the Valley
 Artificial boobs, she will find
 intelligent post-dock from Boston,
 who will necessarily agree that
-Russian woman in the south - like a herring in
+Russian woman in the south - like a herring
 in the pan.
 
 Now you chuckle, but keep in mind: after
 of how your wife sends you to hell, you
 direct road to homosexuals. Because yours
 dejected loneliness will quickly notice -
-Only not women, but men. And when in
+only not women, but men. And when in
 a tipsy company of local lonely
 males you will again say the word "fag",
 there’s sure to be such a friend
@@ -104,7 +104,7 @@ pollination, and ethnologists - just "community."
 
 For those programmers who were often beaten in
 childhood, and after still forced to finish
-MIPT or MSU, there are simply no other options.
+university, there are simply no other options.
 But if you are a real Russian man, then soon
 you will understand that nature has given you a unique
 chance. For now, after leaving your
@@ -116,7 +116,7 @@ To get started, learn: everything you knew about
 American women are a myth. Your mental
 desktop full of slender and affordable icons
 upskirt, but in fact such devices
-loaded only at Hollywood cattle depots.
+loaded only at Hollywood lawn.
 
 But much worse than the other. Are you used to
 Russian women who run for
@@ -130,12 +130,12 @@ our daddies war, alcohol and others
 government experiments.
 
 In the country of cowboys, everything is different. In the usual
-fifty bar men in the bar
+bar fifty men and
 one girl who has a concave
 waist and convex chest, not vice versa. And with
 a damsel is necessarily a company from her
 a boyfriend and three former boyfriends. All
-the remaining forty-five cowboys see themselves her
+the remaining forty five cowboys see themselves her
 future boyfriends and her eyes are not
 lowered. In such a wind tunnel
 the woman can only twist his
@@ -175,7 +175,7 @@ very tough. That is, if you
 invite an american woman to eat
 together, she has in the system unit immediately
 the red light comes on: "The guard,
-they want to fuck me! "And the police are already here
+they want to fuck me"! And the police are already here
 as here. And five years at least.
 
 A particular mockery is that
@@ -201,7 +201,7 @@ it puts you on a par with mental
 disabled, and disabled people in the United States adore.
 I remember once in a virgin bar i
 decided to chat with one girl - it hurts
-Her breasts were well formatted.
+her breasts were well formatted.
 Literally after half a minute of communication before
 I compiled her boyfriend boar,
 with three former boyfriends behind him. I am
@@ -253,7 +253,7 @@ Siberia..." and so on.
 By the way, it will be very cool if you immediately
 hit a woman with cultural troubles
 her home country. German need good
-feed, Frenchwoman - drink and
+feed, french woman - drink and
 dance, spanish woman - drink, dance
 and sing "And I am a fish, I am a fish!" Jew ... well
 speaking abstractly, one needs to be with her
@@ -304,15 +304,15 @@ American women, by the way, have their own analogue of the cannibals language. I
 words: "boyz" (it's you, buddy!), "beer"
 (this is your bottle) and "bathroom" (there they are
 make a "scrum"). Add a row here
-interjections - "oops, wow, ji, cool, sew, wow ..." - and you get a perfectly acceptable BIOS.
+interjections - "oops, wow, ji, cool, sew ..." - and you get a perfectly acceptable BIOS.
 
 Then move on to a higher language
 level. This is the so-called "language
-system programmer. "It includes
+system programmer". It includes
 a series of longer words ("absolute",
 "definitli", etc.) and a number
 corresponding flaring like
-famous "alt-control-cases". But
+famous "alt-control-delete". But
 the main thing is the look. Direct, honest look
 straight into the eyes of the interlocutor, with a good broad
 smile and simultaneous utterance
@@ -336,7 +336,7 @@ America, he will only do this in the elevator.
 Just when you go in the elevator in the morning
 company may happen that at the same time
 your boss will go there. And this boring
-undernourished Indian will probably ask
+undernourished indian will probably ask
 you, how work is progressing. Clear he
 does it only out of politeness. He is
 although indian, but also a normal man. And
